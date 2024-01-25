@@ -1,0 +1,585 @@
+[
+  {
+    "Cliente": 1670,
+    "Razon Social": "BRISTOL MED. SRL (Firmador Doc)",
+    "Remito": 5034,
+    "Modulo maximo": 100,
+    "Activos Septiembre": 126,
+    "Activos Octubre": 141,
+    "Inactivos Octubre": 0,
+    "Activos Noviembre": 10,
+    "Inactivos Noviembre": 0,
+    "Activos Diciembre": 23,
+    "Inactivos Diciembre": 0,
+    "OBSERVACIONES": "Firmador corresponde 5039(Doc Comp) o 5034 (Mod) se toman loszusuarios firmantes",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2343,
+    "Razon Social": "endress",
+    "Remito": 5036,
+    "Modulo maximo": 66,
+    "Activos Septiembre": 66,
+    "Activos Octubre": 66,
+    "Inactivos Octubre": 0,
+    "Activos Noviembre": 66,
+    "Inactivos Noviembre": 0,
+    "Activos Diciembre": 66,
+    "Inactivos Diciembre": 0,
+    "OBSERVACIONES": "Remito x COD 5036 Por cantidad de Legajos Dig.",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2832,
+    "Razon Social": "pentamar",
+    "Remito": 5027,
+    "Modulo maximo": 170,
+    "Activos Septiembre": 117,
+    "Activos Octubre": 120,
+    "Inactivos Octubre": 171,
+    "Activos Noviembre": 130,
+    "Inactivos Noviembre": 171,
+    "Activos Diciembre": 120,
+    "Inactivos Diciembre": 171,
+    "OBSERVACIONES": "Recibos.Los que excedan el tope facturar a Dragos (2869)",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2841,
+    "Razon Social": "cym",
+    "Remito": 5027,
+    "Modulo maximo": 100,
+    "Activos Septiembre": 97,
+    "Activos Octubre": 99,
+    "Inactivos Octubre": 19,
+    "Activos Noviembre": 99,
+    "Inactivos Noviembre": 19,
+    "Activos Diciembre": 99,
+    "Inactivos Diciembre": 19,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2859,
+    "Razon Social": "Conbensil (Firmador)",
+    "Remito": 5034,
+    "Modulo maximo": 250,
+    "Activos Septiembre": 59,
+    "Activos Octubre": 41,
+    "Inactivos Octubre": 0,
+    "Activos Noviembre": 24,
+    "Inactivos Noviembre": 0,
+    "Activos Diciembre": 58,
+    "Inactivos Diciembre": 0,
+    "OBSERVACIONES": "Remito por 5039 o 5034 (Mod) se toman los usuarios firmantes",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2860,
+    "Razon Social": "site",
+    "Remito": 5029,
+    "Modulo maximo": 180,
+    "Activos Septiembre": 192,
+    "Activos Octubre": 193,
+    "Inactivos Octubre": 1,
+    "Activos Noviembre": 193,
+    "Inactivos Noviembre": 1,
+    "Activos Diciembre": 193,
+    "Inactivos Diciembre": 1,
+    "OBSERVACIONES": "Remito por 5027 (Mod) o Usuario(5029) mas COD 5034 (mod) X 1",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2864,
+    "Razon Social": "educar",
+    "Remito": 5029,
+    "Modulo maximo": 340,
+    "Activos Septiembre": 396,
+    "Activos Octubre": 423,
+    "Inactivos Octubre": 1,
+    "Activos Noviembre": 518,
+    "Inactivos Noviembre": 1,
+    "Activos Diciembre": 418,
+    "Inactivos Diciembre": 102,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2869,
+    "Razon Social": "dasa",
+    "Remito": "NO",
+    "Modulo maximo": 170,
+    "Activos Septiembre": 45,
+    "Activos Octubre": 45,
+    "Inactivos Octubre": 31,
+    "Activos Noviembre": 31,
+    "Inactivos Noviembre": 31,
+    "Activos Diciembre": 45,
+    "Inactivos Diciembre": 31,
+    "OBSERVACIONES": "Remito por Usuario solo cuando Pentamar supere el limite cl 2832",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2902,
+    "Razon Social": "cfotech",
+    "Remito": 5029,
+    "Modulo maximo": 120,
+    "Activos Septiembre": 399,
+    "Activos Octubre": 426,
+    "Inactivos Octubre": 219,
+    "Activos Noviembre": 483,
+    "Inactivos Noviembre": 219,
+    "Activos Diciembre": 426,
+    "Inactivos Diciembre": 219,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2904,
+    "Razon Social": "construccionesrm",
+    "Remito": 5029,
+    "Modulo maximo": 100,
+    "Activos Septiembre": 238,
+    "Activos Octubre": 238,
+    "Inactivos Octubre": 1,
+    "Activos Noviembre": 238,
+    "Inactivos Noviembre": 1,
+    "Activos Diciembre": 238,
+    "Inactivos Diciembre": 1,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2905,
+    "Razon Social": "umbriel",
+    "Remito": 5029,
+    "Modulo maximo": 7,
+    "Activos Septiembre": 8,
+    "Activos Octubre": 8,
+    "Inactivos Octubre": 0,
+    "Activos Noviembre": 8,
+    "Inactivos Noviembre": 0,
+    "Activos Diciembre": 8,
+    "Inactivos Diciembre": 0,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2906,
+    "Razon Social": "chemical",
+    "Remito": 5027,
+    "Modulo maximo": 28,
+    "Activos Septiembre": 26,
+    "Activos Octubre": 28,
+    "Inactivos Octubre": 12,
+    "Activos Noviembre": 27,
+    "Inactivos Noviembre": 12,
+    "Activos Diciembre": 28,
+    "Inactivos Diciembre": 12,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2929,
+    "Razon Social": "lltraslados",
+    "Remito": 5027,
+    "Modulo maximo": 100,
+    "Activos Septiembre": 62,
+    "Activos Octubre": 62,
+    "Inactivos Octubre": 35,
+    "Activos Noviembre": 63,
+    "Inactivos Noviembre": 35,
+    "Activos Diciembre": 62,
+    "Inactivos Diciembre": 35,
+    "OBSERVACIONES": "Remito por 5027 (Mod) o Usuario(5029) mas COD 5034 (mod) X 1",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2933,
+    "Razon Social": "bml",
+    "Remito": 5027,
+    "Modulo maximo": 60,
+    "Activos Septiembre": 32,
+    "Activos Octubre": 37,
+    "Inactivos Octubre": 2,
+    "Activos Noviembre": 37,
+    "Inactivos Noviembre": 2,
+    "Activos Diciembre": 37,
+    "Inactivos Diciembre": 2,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2936,
+    "Razon Social": "chazki",
+    "Remito": 5027,
+    "Modulo maximo": 60,
+    "Activos Septiembre": 41,
+    "Activos Octubre": 41,
+    "Inactivos Octubre": 69,
+    "Activos Noviembre": 41,
+    "Inactivos Noviembre": 69,
+    "Activos Diciembre": 41,
+    "Inactivos Diciembre": 69,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2947,
+    "Razon Social": "cebol",
+    "Remito": 5029,
+    "Modulo maximo": 100,
+    "Activos Septiembre": 102,
+    "Activos Octubre": 102,
+    "Inactivos Octubre": 31,
+    "Activos Noviembre": 102,
+    "Inactivos Noviembre": 31,
+    "Activos Diciembre": 102,
+    "Inactivos Diciembre": 31,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2948,
+    "Razon Social": "isade",
+    "Remito": 5029,
+    "Modulo maximo": 112,
+    "Activos Septiembre": 140,
+    "Activos Octubre": 141,
+    "Inactivos Octubre": 27,
+    "Activos Noviembre": 144,
+    "Inactivos Noviembre": 27,
+    "Activos Diciembre": 141,
+    "Inactivos Diciembre": 27,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2954,
+    "Razon Social": "estudioflores",
+    "Remito": 5027,
+    "Modulo maximo": 15,
+    "Activos Septiembre": 12,
+    "Activos Octubre": 12,
+    "Inactivos Octubre": 4,
+    "Activos Noviembre": 12,
+    "Inactivos Noviembre": 4,
+    "Activos Diciembre": 12,
+    "Inactivos Diciembre": 4,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2955,
+    "Razon Social": "comahue",
+    "Remito": 5027,
+    "Modulo maximo": 30,
+    "Activos Septiembre": 27,
+    "Activos Octubre": 27,
+    "Inactivos Octubre": 2,
+    "Activos Noviembre": 25,
+    "Inactivos Noviembre": 2,
+    "Activos Diciembre": 27,
+    "Inactivos Diciembre": 2,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2956,
+    "Razon Social": "lubchem",
+    "Remito": 5027,
+    "Modulo maximo": 30,
+    "Activos Septiembre": 30,
+    "Activos Octubre": 31,
+    "Inactivos Octubre": 4,
+    "Activos Noviembre": 27,
+    "Inactivos Noviembre": 4,
+    "Activos Diciembre": 31,
+    "Inactivos Diciembre": 4,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },
+  {
+    "Cliente": 2960,
+    "Razon Social": "sicoex",
+    "Remito": 5027,
+    "Modulo maximo": 40,
+    "Activos Septiembre": 19,
+    "Activos Octubre": 19,
+    "Inactivos Octubre": 0,
+    "Activos Noviembre": 19,
+    "Inactivos Noviembre": 0,
+    "Activos Diciembre": 19,
+    "Inactivos Diciembre": 0,
+    "OBSERVACIONES": "",
+    "__EMPTY": ""
+  },     
+    {
+          "Cliente":2966,
+          "Razon Social":"mwlog",
+          "Remito":5027,
+          "Modulo maximo":20,
+          "Activos Septiembre":17,
+          "Activos Octubre":17,
+          "Inactivos Octubre":1,
+          "Activos Noviembre":17,
+          "Inactivos Noviembre":1,
+          "Activos Diciembre":17,
+          "Inactivos Diciembre":1,
+          "OBSERVACIONES":"",
+          "__EMPTY":""
+          },
+          {
+            "Cliente":2967,
+            "Razon Social":"eagle",
+            "Remito":5027,
+            "Modulo maximo":20,
+            "Activos Septiembre":17,
+            "Activos Octubre":17,
+            "Inactivos Octubre":0,
+            "Activos Noviembre":18,
+            "Inactivos Noviembre":0,
+            "Activos Diciembre":17,
+            "Inactivos Diciembre":0,
+            "OBSERVACIONES":"",
+            "__EMPTY":""
+            },
+            {
+              "Cliente":2973,
+              "Razon Social":"g4s - g4sconfidenciales",
+              "Remito":5027,
+              "Modulo maximo":3500,
+              "Activos Septiembre":3290,
+              "Activos Octubre":3323,
+              "Inactivos Octubre":768,
+              "Activos Noviembre":3042,
+              "Inactivos Noviembre":768,
+              "Activos Diciembre":3323,
+              "Inactivos Diciembre":768,
+              "OBSERVACIONES":"",
+              "__EMPTY":""
+              },
+              {
+                "Cliente":2979,
+                "Razon Social":"acriter",
+                "Remito":5027,
+                "Modulo maximo":15,
+                "Activos Septiembre":12,
+                "Activos Octubre":12,
+                "Inactivos Octubre":0,
+                "Activos Noviembre":12,
+                "Inactivos Noviembre":0,
+                "Activos Diciembre":12,
+                "Inactivos Diciembre":0,
+                "OBSERVACIONES":"",
+                "__EMPTY":""
+                },
+                {
+                "Cliente":2981,
+                "Razon Social":"manuchar",
+                "Remito":5029,
+                "Modulo maximo":30,
+                "Activos Septiembre":55,
+                "Activos Octubre":46,
+                "Inactivos Octubre":12,
+                "Activos Noviembre":47,
+                "Inactivos Noviembre":12,
+                "Activos Diciembre":46,
+                "Inactivos Diciembre":12,
+                "OBSERVACIONES":"",
+                "__EMPTY":""
+                },
+                {"Cliente":2982,"Razon Social":"tembici","Remito":5029,"Modulo maximo":115,"Activos Septiembre":148,"Activos Octubre":149,"Inactivos Octubre":8,"Activos Noviembre":151,"Inactivos Noviembre":8,"Activos Diciembre":149,"Inactivos Diciembre":8,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":2987,"Razon Social":"cheil","Remito":5029,"Modulo maximo":100,"Activos Septiembre":181,"Activos Octubre":187,"Inactivos Octubre":11,"Activos Noviembre":191,"Inactivos Noviembre":11,"Activos Diciembre":187,"Inactivos Diciembre":11,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":2994,"Razon Social":"longport","Remito":5027,"Modulo maximo":439,"Activos Septiembre":370,"Activos Octubre":375,"Inactivos Octubre":69,"Activos Noviembre":370,"Inactivos Noviembre":69,"Activos Diciembre":375,"Inactivos Diciembre":69,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3001,"Razon Social":"camozzi recibos","Remito":5027,"Modulo maximo":30,"Activos Septiembre":30,"Activos Octubre":30,"Inactivos Octubre":1,"Activos Noviembre":30,"Inactivos Noviembre":1,"Activos Diciembre":30,"Inactivos Diciembre":1,"OBSERVACIONES":"Remito por 5027 (Mod) o Usuario(5029)","__EMPTY":""},{"Cliente":3001,"Razon Social":" camozzi fc","Remito":5034,"Modulo maximo":100,"Activos Septiembre":179,"Activos Octubre":210,"Inactivos Octubre":0,"Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":65,"Inactivos Diciembre":0,"OBSERVACIONES":"Sign&File corresponde por 5034 (Mod) o por 5037 (Doc Comp) Comparte Facturas desde la plataforma de Recibos","__EMPTY":""},{"Cliente":3004,"Razon Social":"errekaese","Remito":5027,"Modulo maximo":50,"Activos Septiembre":50,"Activos Octubre":50,"Inactivos Octubre":10,"Activos Noviembre":50,"Inactivos Noviembre":10,"Activos Diciembre":50,"Inactivos Diciembre":10,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3009,"Razon Social":"nueva energia","Remito":5027,"Modulo maximo":40,"Activos Septiembre":10,"Activos Octubre":10,"Inactivos Octubre":0,"Activos Noviembre":10,"Inactivos Noviembre":0,"Activos Diciembre":0,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por Doc Compartidos (COD 5037) o Mod  5027","__EMPTY":""},{"Cliente":3012,"Razon Social":"korn","Remito":5029,"Modulo maximo":40,"Activos Septiembre":58,"Activos Octubre":58,"Inactivos Octubre":3,"Activos Noviembre":61,"Inactivos Noviembre":3,"Activos Diciembre":58,"Inactivos Diciembre":3,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3015,"Razon Social":"fracht","Remito":5027,"Modulo maximo":64,"Activos Septiembre":60,"Activos Octubre":61,"Inactivos Octubre":7,"Activos Noviembre":63,"Inactivos Noviembre":7,"Activos Diciembre":61,"Inactivos Diciembre":7,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3016,"Razon Social":"qsand","Remito":0,"Modulo maximo":20,"Activos Septiembre":9,"Activos Octubre":9,"Inactivos Octubre":5,"Activos Noviembre":9,"Inactivos Noviembre":5,"Activos Diciembre":9,"Inactivos Diciembre":5,"OBSERVACIONES":"suspendido Contactar en Diciembre","__EMPTY":""},{"Cliente":3018,"Razon Social":"elcronista","Remito":5029,"Modulo maximo":125,"Activos Septiembre":152,"Activos Octubre":159,"Inactivos Octubre":43,"Activos Noviembre":161,"Inactivos Noviembre":43,"Activos Diciembre":159,"Inactivos Diciembre":43,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3019,"Razon Social":"uomaxace","Remito":5029,"Modulo maximo":0,"Activos Septiembre":68,"Activos Octubre":69,"Inactivos Octubre":15,"Activos Noviembre":69,"Inactivos Noviembre":15,"Activos Diciembre":69,"Inactivos Diciembre":15,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3020,"Razon Social":"uomaxalsina","Remito":5029,"Modulo maximo":0,"Activos Septiembre":33,"Activos Octubre":33,"Inactivos Octubre":14,"Activos Noviembre":37,"Inactivos Noviembre":14,"Activos Diciembre":33,"Inactivos Diciembre":14,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3021,"Razon Social":"uomaxavellaneda","Remito":5029,"Modulo maximo":0,"Activos Septiembre":19,"Activos Octubre":18,"Inactivos Octubre":12,"Activos Noviembre":19,"Inactivos Noviembre":12,"Activos Diciembre":18,"Inactivos Diciembre":12,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3022,"Razon Social":"uomaxbustamante","Remito":5029,"Modulo maximo":0,"Activos Septiembre":24,"Activos Octubre":23,"Inactivos Octubre":18,"Activos Noviembre":25,"Inactivos Noviembre":18,"Activos Diciembre":23,"Inactivos Diciembre":18,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3023,"Razon Social":"uomaxdelia","Remito":5029,"Modulo maximo":0,"Activos Septiembre":31,"Activos Octubre":33,"Inactivos Octubre":16,"Activos Noviembre":33,"Inactivos Noviembre":16,"Activos Diciembre":33,"Inactivos Diciembre":16,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3024,"Razon Social":"uomaxdelpuente","Remito":5029,"Modulo maximo":0,"Activos Septiembre":18,"Activos Octubre":18,"Inactivos Octubre":6,"Activos Noviembre":18,"Inactivos Noviembre":6,"Activos Diciembre":18,"Inactivos Diciembre":6,"OBSERVACIONES":"Remito por usuario","__EMPTY":""
+              },
+        {
+          "Cliente":3025,"Razon Social":"uomaxescalada","Remito":5029,"Modulo maximo":0,"Activos Septiembre":30,"Activos Octubre":29,"Inactivos Octubre":12,"Activos Noviembre":31,"Inactivos Noviembre":12,"Activos Diciembre":29,"Inactivos Diciembre":12,"OBSERVACIONES":"Remito por usuario","__EMPTY":""
+          },
+          {
+            "Cliente":3026,"Razon Social":"uomaxgerli","Remito":5029,"Modulo maximo":0,"Activos Septiembre":24,"Activos Octubre":22,"Inactivos Octubre":19,"Activos Noviembre":24,"Inactivos Noviembre":19,"Activos Diciembre":22,"Inactivos Diciembre":19,"OBSERVACIONES":"Remito por usuario","__EMPTY":""
+            },
+            {
+              "Cliente":3027,"Razon Social":"uomaxgorriti","Remito":5029,"Modulo maximo":0,"Activos Septiembre":48,"Activos Octubre":49,"Inactivos Octubre":32,"Activos Noviembre":52,"Inactivos Noviembre":32,"Activos Diciembre":49,"Inactivos Diciembre":32,"OBSERVACIONES":"Remito por usuario","__EMPTY":""
+              },
+              {"Cliente":3028,"Razon Social":"uomaxlanus","Remito":5029,"Modulo maximo":0,"Activos Septiembre":69,"Activos Octubre":69,"Inactivos Octubre":42,"Activos Noviembre":75,"Inactivos Noviembre":42,"Activos Diciembre":69,"Inactivos Diciembre":42,"OBSERVACIONES":"Remito por usuario","__EMPTY":""
+              },
+              {
+                "Cliente":3029,"Razon Social":"uomaxmitre","Remito":5029,"Modulo maximo":0,"Activos Septiembre":29,"Activos Octubre":25,"Inactivos Octubre":23,"Activos Noviembre":26,"Inactivos Noviembre":23,"Activos Diciembre":25,"Inactivos Diciembre":23,"OBSERVACIONES":"Remito por usuario","__EMPTY":""
+              },
+              {
+                "Cliente":3030,"Razon Social":"uomaxmoderna","Remito":5029,"Modulo maximo":0,"Activos Septiembre":51,"Activos Octubre":48,"Inactivos Octubre":23,"Activos Noviembre":50,"Inactivos Noviembre":23,"Activos Diciembre":48,"Inactivos Diciembre":23,"OBSERVACIONES":"Remito por usuario","__EMPTY":""
+                },
+                {"Cliente":3031,"Razon Social":"uomaxtemperley","Remito":5029,"Modulo maximo":0,"Activos Septiembre":16,"Activos Octubre":16,"Inactivos Octubre":6,"Activos Noviembre":18,"Inactivos Noviembre":6,"Activos Diciembre":16,"Inactivos Diciembre":6,"OBSERVACIONES":"Remito por usuario","__EMPTY":""
+                },
+              {
+                "Cliente":3033,"Razon Social":"biemme","Remito":5027,"Modulo maximo":50,"Activos Septiembre":27,"Activos Octubre":27,"Inactivos Octubre":2,"Activos Noviembre":27,"Inactivos Noviembre":2,"Activos Diciembre":27,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""
+                },
+              {
+                "Cliente":3039,"Razon Social":"lachybs","Remito":5029,"Modulo maximo":150,"Activos Septiembre":151,"Activos Octubre":152,"Inactivos Octubre":35,"Activos Noviembre":152,"Inactivos Noviembre":35,"Activos Diciembre":152,"Inactivos Diciembre":35,"OBSERVACIONES":"","__EMPTY":""
+                },
+            {
+              "Cliente":3040,"Razon Social":"vecchiohnossrl","Remito":5027,"Modulo maximo":50,"Activos Septiembre":50,"Activos Octubre":50,"Inactivos Octubre":0,"Activos Noviembre":50,"Inactivos Noviembre":0,"Activos Diciembre":50,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""
+              },
+              {
+                "Cliente":3042,"Razon Social":"sialar","Remito":5029,"Modulo maximo":150,"Activos Septiembre":164,"Activos Octubre":174,"Inactivos Octubre":41,"Activos Noviembre":181,"Inactivos Noviembre":41,"Activos Diciembre":174,"Inactivos Diciembre":41,"OBSERVACIONES":"","__EMPTY":""
+                },
+                {
+                  "Cliente":3043,"Razon Social":"amd","Remito":5029,"Modulo maximo":150,"Activos Septiembre":234,"Activos Octubre":205,"Inactivos Octubre":56,"Activos Noviembre":207,"Inactivos Noviembre":56,"Activos Diciembre":205,"Inactivos Diciembre":56,"OBSERVACIONES":"","__EMPTY":""
+                  },
+                  {
+              "Cliente":3044,"Razon Social":"gptw","Remito":5027,"Modulo maximo":50,"Activos Septiembre":26,"Activos Octubre":27,"Inactivos Octubre":11,"Activos Noviembre":25,"Inactivos Noviembre":11,"Activos Diciembre":27,"Inactivos Diciembre":11,"OBSERVACIONES":"","__EMPTY":""
+              },
+              {
+                "Cliente":3047,"Razon Social":"das","Remito":5027,"Modulo maximo":50,"Activos Septiembre":43,"Activos Octubre":44,"Inactivos Octubre":0,"Activos Noviembre":44,"Inactivos Noviembre":0,"Activos Diciembre":44,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""
+                },
+                {
+                  "Cliente":3048,"Razon Social":"proanalisis","Remito":5027,"Modulo maximo":90,"Activos Septiembre":78,"Activos Octubre":78,"Inactivos Octubre":22,"Activos Noviembre":75,"Inactivos Noviembre":22,"Activos Diciembre":78,"Inactivos Diciembre":22,"OBSERVACIONES":"","__EMPTY":""
+                  },
+                  {
+                    "Cliente":3049,"Razon Social":"omnilife","Remito":5027,"Modulo maximo":75,"Activos Septiembre":74,"Activos Octubre":74,"Inactivos Octubre":33,"Activos Noviembre":75,"Inactivos Noviembre":33,"Activos Diciembre":74,"Inactivos Diciembre":33,"OBSERVACIONES":"","__EMPTY":""
+                    },
+                    {
+                      "Cliente":3050,"Razon Social":"anchoita","Remito":5029,"Modulo maximo":50,"Activos Septiembre":140,"Activos Octubre":140,"Inactivos Octubre":21,"Activos Noviembre":145,"Inactivos Noviembre":21,"Activos Diciembre":140,"Inactivos Diciembre":21,"OBSERVACIONES":"","__EMPTY":""
+                      },
+                      {
+                        "Cliente":3051,"Razon Social":"anchoitafilms","Remito":5027,"Modulo maximo":75,"Activos Septiembre":21,"Activos Octubre":21,"Inactivos Octubre":3,"Activos Noviembre":23,"Inactivos Noviembre":3,"Activos Diciembre":21,"Inactivos Diciembre":3,"OBSERVACIONES":"","__EMPTY":""
+                        },
+                        {
+                          "Cliente":3052,"Razon Social":"stagecompany","Remito":5027,"Modulo maximo":75,"Activos Septiembre":72,"Activos Octubre":72,"Inactivos Octubre":1,"Activos Noviembre":72,"Inactivos Noviembre":1,"Activos Diciembre":72,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""
+                          },
+                          {
+                            "Cliente":3053,"Razon Social":"iproject","Remito":5027,"Modulo maximo":50,"Activos Septiembre":10,"Activos Octubre":10,"Inactivos Octubre":0,"Activos Noviembre":10,"Inactivos Noviembre":0,"Activos Diciembre":10,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""
+                            },
+                            {
+                              "Cliente":3059,"Razon Social":"bauschlomb","Remito":5027,"Modulo maximo":100,"Activos Septiembre":59,"Activos Octubre":61,"Inactivos Octubre":4,"Activos Noviembre":61,"Inactivos Noviembre":4,"Activos Diciembre":61,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3063,"Razon Social":"sulmineira","Remito":5027,"Modulo maximo":39,"Activos Septiembre":23,"Activos Octubre":24,"Inactivos Octubre":0,"Activos Noviembre":24,"Inactivos Noviembre":0,"Activos Diciembre":24,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""
+                              },
+                              {
+                                "Cliente":3064,"Razon Social":"corpomedica","Remito":5029,"Modulo maximo":83,"Activos Septiembre":159,"Activos Octubre":159,"Inactivos Octubre":0,"Activos Noviembre":160,"Inactivos Noviembre":0,"Activos Diciembre":159,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3065,"Razon Social":"certant","Remito":5029,"Modulo maximo":100,"Activos Septiembre":125,"Activos Octubre":126,"Inactivos Octubre":17,"Activos Noviembre":130,"Inactivos Noviembre":17,"Activos Diciembre":126,"Inactivos Diciembre":17,"OBSERVACIONES":"","__EMPTY":""
+                                },
+                                {
+                                  "Cliente":3068,"Razon Social":"logitec","Remito":5027,"Modulo maximo":200,"Activos Septiembre":165,"Activos Octubre":169,"Inactivos Octubre":74,"Activos Noviembre":169,"Inactivos Noviembre":74,"Activos Diciembre":169,"Inactivos Diciembre":74,"OBSERVACIONES":"","__EMPTY":""
+                                  },
+                                  {
+                                    "Cliente":3080,"Razon Social":"saco","Remito":5029,"Modulo maximo":50,"Activos Septiembre":53,"Activos Octubre":53,"Inactivos Octubre":5,"Activos Noviembre":53,"Inactivos Noviembre":5,"Activos Diciembre":53,"Inactivos Diciembre":5,"OBSERVACIONES":"","__EMPTY":""
+                                    },
+                                    {
+                                      "Cliente":3083,"Razon Social":"cemetec","Remito":5027,"Modulo maximo":50,"Activos Septiembre":3,"Activos Octubre":3,"Inactivos Octubre":2,"Activos Noviembre":3,"Inactivos Noviembre":2,"Activos Diciembre":3,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""
+                                      },
+                                      {
+                                        "Cliente":3086,"Razon Social":"Op Ferroviaria Soc Del Estado","Remito":5029,"Modulo maximo":0,"Activos Septiembre":23921,"Activos Octubre":23920,"Inactivos Octubre":0,"Activos Noviembre":23919,"Inactivos Noviembre":0,"Activos Diciembre":23888,"Inactivos Diciembre":0,"OBSERVACIONES":"TRENES","__EMPTY":""
+                                        },
+                                        {
+                                          "Cliente":3087,"Razon Social":"calello","Remito":5029,"Modulo maximo":20,"Activos Septiembre":128,"Activos Octubre":130,"Inactivos Octubre":53,"Activos Noviembre":129,"Inactivos Noviembre":53,"Activos Diciembre":130,"Inactivos Diciembre":53,"OBSERVACIONES":"","__EMPTY":""},
+                                          {
+                                            "Cliente":3093,"Razon Social":"mimo - mimovip","Remito":5029,"Modulo maximo":75,"Activos Septiembre":1145,"Activos Octubre":1157,"Inactivos Octubre":128,"Activos Noviembre":1197,"Inactivos Noviembre":128,"Activos Diciembre":1157,"Inactivos Diciembre":128,"OBSERVACIONES":"","__EMPTY":""
+                                            },
+                                            {"Cliente":3095,"Razon Social":"mediamax","Remito":5027,"Modulo maximo":50,"Activos Septiembre":32,"Activos Octubre":32,"Inactivos Octubre":0,"Activos Noviembre":32,"Inactivos Noviembre":0,"Activos Diciembre":32,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""
+                                            },
+                                            {"Cliente":3106,"Razon Social":"isowean","Remito":5029,"Modulo maximo":100,"Activos Septiembre":153,"Activos Octubre":159,"Inactivos Octubre":59,"Activos Noviembre":160,"Inactivos Noviembre":59,"Activos Diciembre":159,"Inactivos Diciembre":59,"OBSERVACIONES":"","__EMPTY":""
+                                            },
+                                            {
+                                              "Cliente":3107,"Razon Social":"carda","Remito":5029,"Modulo maximo":192,"Activos Septiembre":291,"Activos Octubre":296,"Inactivos Octubre":164,"Activos Noviembre":304,"Inactivos Noviembre":164,"Activos Diciembre":296,"Inactivos Diciembre":164,"OBSERVACIONES":"","__EMPTY":""
+                                              },
+                                              {
+                                                "Cliente":3111,"Razon Social":"Pastalinda","Remito":5027,"Modulo maximo":90,"Activos Septiembre":67,"Activos Octubre":67,"Inactivos Octubre":120,"Activos Noviembre":67,"Inactivos Noviembre":120,"Activos Diciembre":67,"Inactivos Diciembre":120,"OBSERVACIONES":"","__EMPTY":""
+                                                },
+                                                {
+                                                  "Cliente":3113,"Razon Social":"monsa","Remito":5029,"Modulo maximo":40,"Activos Septiembre":42,"Activos Octubre":42,"Inactivos Octubre":1,"Activos Noviembre":44,"Inactivos Noviembre":1,"Activos Diciembre":42,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""
+                                                  },
+                                                  {
+                                                    "Cliente":3118,"Razon Social":"goyacorrientes","Remito":5029,"Modulo maximo":100,"Activos Septiembre":719,"Activos Octubre":724,"Inactivos Octubre":163,"Activos Noviembre":727,"Inactivos Noviembre":163,"Activos Diciembre":18,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""
+                                                    },
+                                                    {
+                                                      "Cliente":3119,"Razon Social":"martinycia","Remito":5029,"Modulo maximo":100,"Activos Septiembre":1512,"Activos Octubre":1558,"Inactivos Octubre":474,"Activos Noviembre":1581,"Inactivos Noviembre":474,"Activos Diciembre":724,"Inactivos Diciembre":163,"OBSERVACIONES":"","__EMPTY":""
+                                                      },
+                                                      {
+                                                        "Cliente":3120,"Razon Social":"evasa","Remito":5029,"Modulo maximo":80,"Activos Septiembre":344,"Activos Octubre":345,"Inactivos Octubre":58,"Activos Noviembre":358,"Inactivos Noviembre":58,"Activos Diciembre":1558,"Inactivos Diciembre":474,"OBSERVACIONES":"","__EMPTY":""
+                                                                      },
+                              {
+                                "Cliente":3121,"Razon Social":"Mancia (meridianonorte)","Remito":5027,"Modulo maximo":17,"Activos Septiembre":17,"Activos Octubre":17,"Inactivos Octubre":0,"Activos Noviembre":17,"Inactivos Noviembre":0,"Activos Diciembre":345,"Inactivos Diciembre":58,"OBSERVACIONES":"El modulo esta unificado con Meridiano/Pamat","__EMPTY":""
+                                },
+                                {
+                                  "Cliente":3122,"Razon Social":"Pamat (meridianonorte)","Remito":5027,"Modulo maximo":17,"Activos Septiembre":15,"Activos Octubre":16,"Inactivos Octubre":0,"Activos Noviembre":18,"Inactivos Noviembre":0,"Activos Diciembre":17,"Inactivos Diciembre":0,"OBSERVACIONES":"El modulo esta unificado con Mancia/Meridiano","__EMPTY":""
+                                  },
+                                  {
+                                    "Cliente":3123,"Razon Social":"Meridiano norte (meridianonorte)","Remito":5027,"Modulo maximo":17,"Activos Septiembre":11,"Activos Octubre":13,"Inactivos Octubre":0,"Activos Noviembre":13,"Inactivos Noviembre":0,"Activos Diciembre":16,"Inactivos Diciembre":0,"OBSERVACIONES":"El modulo esta unificado con Mancia/Pamat","__EMPTY":""
+                                    },
+                                    {
+                                      "Cliente":3133,"Razon Social":"sise","Remito":5027,"Modulo maximo":300,"Activos Septiembre":241,"Activos Octubre":210,"Inactivos Octubre":137,"Activos Noviembre":219,"Inactivos Noviembre":137,"Activos Diciembre":210,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""
+                                      },
+                                      {
+                                        "Cliente":3137,"Razon Social":"impexpro","Remito":5027,"Modulo maximo":30,"Activos Septiembre":23,"Activos Octubre":23,"Inactivos Octubre":6,"Activos Noviembre":23,"Inactivos Noviembre":6,"Activos Diciembre":23,"Inactivos Diciembre":137,"OBSERVACIONES":"","__EMPTY":""
+                                        },
+                                        {
+                                          "Cliente":3138,"Razon Social":"gebayipgs","Remito":5029,"Modulo maximo":380,"Activos Septiembre":385,"Activos Octubre":388,"Inactivos Octubre":10,"Activos Noviembre":388,"Inactivos Noviembre":10,"Activos Diciembre":388,"Inactivos Diciembre":6,"OBSERVACIONES":"","__EMPTY":""
+                                          },
+                                          {
+                                            "Cliente":3140,"Razon Social":"todomusica","Remito":5027,"Modulo maximo":60,"Activos Septiembre":44,"Activos Octubre":44,"Inactivos Octubre":26,"Activos Noviembre":44,"Inactivos Noviembre":26,"Activos Diciembre":44,"Inactivos Diciembre":10,"OBSERVACIONES":"","__EMPTY":""
+                                            },
+{
+  "Cliente":3141,"Razon Social":"degac","Remito":5029,"Modulo maximo":100,"Activos Septiembre":130,"Activos Octubre":138,"Inactivos Octubre":15,"Activos Noviembre":147,"Inactivos Noviembre":15,"Activos Diciembre":138,"Inactivos Diciembre":26,"OBSERVACIONES":"","__EMPTY":""
+  },
+  {
+    "Cliente":3142,"Razon Social":"geosistemas","Remito":5027,"Modulo maximo":50,"Activos Septiembre":48,"Activos Octubre":48,"Inactivos Octubre":9,"Activos Noviembre":48,"Inactivos Noviembre":9,"Activos Diciembre":48,"Inactivos Diciembre":15,"OBSERVACIONES":"","__EMPTY":""
+    },
+    {
+      "Cliente":3144,"Razon Social":"arc","Remito":5029,"Modulo maximo":50,"Activos Septiembre":59,"Activos Octubre":64,"Inactivos Octubre":18,"Activos Noviembre":65,"Inactivos Noviembre":18,"Activos Diciembre":64,"Inactivos Diciembre":9,"OBSERVACIONES":"","__EMPTY":""
+      },
+      {
+        "Cliente":3145,"Razon Social":"biopas","Remito":5027,"Modulo maximo":49,"Activos Septiembre":38,"Activos Octubre":37,"Inactivos Octubre":13,"Activos Noviembre":28,"Inactivos Noviembre":13,"Activos Diciembre":37,"Inactivos Diciembre":18,"OBSERVACIONES":"","__EMPTY":""
+        },
+        {
+          "Cliente":3146,"Razon Social":"ospf","Remito":5029,"Modulo maximo":180,"Activos Septiembre":200,"Activos Octubre":200,"Inactivos Octubre":2,"Activos Noviembre":201,"Inactivos Noviembre":2,"Activos Diciembre":200,"Inactivos Diciembre":13,"OBSERVACIONES":"","__EMPTY":""
+          },
+          {
+            "Cliente":3147,"Razon Social":"messefrankfurt","Remito":5027,"Modulo maximo":40,"Activos Septiembre":41,"Activos Octubre":41,"Inactivos Octubre":10,"Activos Noviembre":40,"Inactivos Noviembre":10,"Activos Diciembre":41,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""
+            },
+            {
+              "Cliente":3158,"Razon Social":"digitalvirgo","Remito":5027,"Modulo maximo":20,"Activos Septiembre":6,"Activos Octubre":6,"Inactivos Octubre":1,"Activos Noviembre":6,"Inactivos Noviembre":1,"Activos Diciembre":6,"Inactivos Diciembre":10,"OBSERVACIONES":"","__EMPTY":""
+              },
+              {
+                "Cliente":3159,"Razon Social":"item","Remito":5029,"Modulo maximo":56,"Activos Septiembre":165,"Activos Octubre":100,"Inactivos Octubre":67,"Activos Noviembre":107,"Inactivos Noviembre":67,"Activos Diciembre":100,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""
+                },
+                {
+                  "Cliente":3160,"Razon Social":"absa","Remito":5027,"Modulo maximo":56,"Activos Septiembre":18,"Activos Octubre":17,"Inactivos Octubre":4,"Activos Noviembre":19,"Inactivos Noviembre":4,"Activos Diciembre":17,"Inactivos Diciembre":67,"OBSERVACIONES":"","__EMPTY":""
+                  },
+                  {
+                    "Cliente":3163,"Razon Social":"agentecentral","Remito":5027,"Modulo maximo":43,"Activos Septiembre":35,"Activos Octubre":35,"Inactivos Octubre":9,"Activos Noviembre":36,"Inactivos Noviembre":9,"Activos Diciembre":35,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""
+                    },
+          {
+            "Cliente":3164,"Razon Social":"onetelefonia","Remito":5027,"Modulo maximo":44,"Activos Septiembre":42,"Activos Octubre":41,"Inactivos Octubre":13,"Activos Noviembre":43,"Inactivos Noviembre":13,"Activos Diciembre":41,"Inactivos Diciembre":9,"OBSERVACIONES":"","__EMPTY":""
+            },
+            {
+              "Cliente":3165,"Razon Social":"pastandfood","Remito":5029,"Modulo maximo":35,"Activos Septiembre":63,"Activos Octubre":63,"Inactivos Octubre":17,"Activos Noviembre":65,"Inactivos Noviembre":17,"Activos Diciembre":63,"Inactivos Diciembre":13,"OBSERVACIONES":"","__EMPTY":""
+              },
+              {
+                "Cliente":3166,"Razon Social":"enfo","Remito":5029,"Modulo maximo":46,"Activos Septiembre":48,"Activos Octubre":56,"Inactivos Octubre":12,"Activos Noviembre":56,"Inactivos Noviembre":12,"Activos Diciembre":56,"Inactivos Diciembre":17,"OBSERVACIONES":"","__EMPTY":""
+                },
+                {
+                  "Cliente":3167,"Razon Social":"keymen","Remito":5027,"Modulo maximo":35,"Activos Septiembre":29,"Activos Octubre":29,"Inactivos Octubre":5,"Activos Noviembre":29,"Inactivos Noviembre":5,"Activos Diciembre":29,"Inactivos Diciembre":12,"OBSERVACIONES":"","__EMPTY":""
+                  },
+                  {
+                    "Cliente":3169,"Razon Social":"arno","Remito":5029,"Modulo maximo":73,"Activos Septiembre":267,"Activos Octubre":267,"Inactivos Octubre":0,"Activos Noviembre":270,"Inactivos Noviembre":0,"Activos Diciembre":267,"Inactivos Diciembre":5,"OBSERVACIONES":"","__EMPTY":""
+                    },
+                    {
+                      "Cliente":3171,"Razon Social":"Argifianza (Firmador)","Remito":5034,"Modulo maximo":15,"Activos Septiembre":0,"Activos Octubre":1,"Inactivos Octubre":0,"Activos Noviembre":5,"Inactivos Noviembre":0,"Activos Diciembre":3,"Inactivos Diciembre":0,"OBSERVACIONES":"Sign&File Remito por 5037(Doc Comp.)  o 5034 (Modulo)","__EMPTY":""
+                      },
+{
+"Cliente":3175,"Razon Social":"ismastaff - ismaplanta","Remito":5027,"Modulo maximo":50,"Activos Septiembre":40,"Activos Octubre":40,"Inactivos Octubre":2,"Activos Noviembre":40,"Inactivos Noviembre":2,"Activos Diciembre":40,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""
+},
+{
+  "Cliente":3177,"Razon Social":"sadosky","Remito":5027,"Modulo maximo":50,"Activos Septiembre":38,"Activos Octubre":40,"Inactivos Octubre":1,"Activos Noviembre":40,"Inactivos Noviembre":1,"Activos Diciembre":40,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""
+  },
+  {
+    "Cliente":3184,"Razon Social":"tassaroli","Remito":5029,"Modulo maximo":203,"Activos Septiembre":216,"Activos Octubre":222,"Inactivos Octubre":28,"Activos Noviembre":228,"Inactivos Noviembre":28,"Activos Diciembre":222,"Inactivos Diciembre":28,"OBSERVACIONES":"","__EMPTY":""
+    },
+    {
+      "Cliente":3185,"Razon Social":"crowder","Remito":5027,"Modulo maximo":50,"Activos Septiembre":13,"Activos Octubre":13,"Inactivos Octubre":1,"Activos Noviembre":14,"Inactivos Noviembre":1,"Activos Diciembre":13,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""
+      },
+      {
+        "Cliente":3188,"Razon Social":"afalp","Remito":5029,"Modulo maximo":100,"Activos Septiembre":126,"Activos Octubre":127,"Inactivos Octubre":6,"Activos Noviembre":127,"Inactivos Noviembre":6,"Activos Diciembre":127,"Inactivos Diciembre":6,"OBSERVACIONES":"","__EMPTY":""
+        },
+        {
+          "Cliente":3190,"Razon Social":"fhba","Remito":5027,"Modulo maximo":70,"Activos Septiembre":55,"Activos Octubre":55,"Inactivos Octubre":9,"Activos Noviembre":54,"Inactivos Noviembre":9,"Activos Diciembre":55,"Inactivos Diciembre":9,"OBSERVACIONES":"","__EMPTY":""},
+          {
+            "Cliente":3191,"Razon Social":"smt","Remito":5027,"Modulo maximo":50,"Activos Septiembre":24,"Activos Octubre":24,"Inactivos Octubre":0,"Activos Noviembre":23,"Inactivos Noviembre":0,"Activos Diciembre":24,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3192,"Razon Social":"belgaum","Remito":5027,"Modulo maximo":50,"Activos Septiembre":16,"Activos Octubre":16,"Inactivos Octubre":2,"Activos Noviembre":17,"Inactivos Noviembre":2,"Activos Diciembre":16,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3194,"Razon Social":"nationalbrokers","Remito":5029,"Modulo maximo":50,"Activos Septiembre":214,"Activos Octubre":222,"Inactivos Octubre":61,"Activos Noviembre":213,"Inactivos Noviembre":61,"Activos Diciembre":222,"Inactivos Diciembre":61,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3196,"Razon Social":"bellmotors","Remito":5027,"Modulo maximo":30,"Activos Septiembre":25,"Activos Octubre":28,"Inactivos Octubre":4,"Activos Noviembre":28,"Inactivos Noviembre":4,"Activos Diciembre":28,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3197,"Razon Social":"broier","Remito":5027,"Modulo maximo":60,"Activos Septiembre":51,"Activos Octubre":59,"Inactivos Octubre":1,"Activos Noviembre":59,"Inactivos Noviembre":1,"Activos Diciembre":59,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3203,"Razon Social":"fulltec","Remito":5027,"Modulo maximo":50,"Activos Septiembre":47,"Activos Octubre":49,"Inactivos Octubre":8,"Activos Noviembre":49,"Inactivos Noviembre":8,"Activos Diciembre":49,"Inactivos Diciembre":8,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3204,"Razon Social":"craft","Remito":5029,"Modulo maximo":85,"Activos Septiembre":108,"Activos Octubre":107,"Inactivos Octubre":0,"Activos Noviembre":108,"Inactivos Noviembre":0,"Activos Diciembre":107,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3205,"Razon Social":"refrimar","Remito":5027,"Modulo maximo":20,"Activos Septiembre":14,"Activos Octubre":14,"Inactivos Octubre":2,"Activos Noviembre":14,"Inactivos Noviembre":2,"Activos Diciembre":14,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3207,"Razon Social":"conexia","Remito":5029,"Modulo maximo":100,"Activos Septiembre":129,"Activos Octubre":136,"Inactivos Octubre":0,"Activos Noviembre":141,"Inactivos Noviembre":0,"Activos Diciembre":136,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3208,"Razon Social":"bancomeridian","Remito":5027,"Modulo maximo":100,"Activos Septiembre":77,"Activos Octubre":76,"Inactivos Octubre":7,"Activos Noviembre":76,"Inactivos Noviembre":7,"Activos Diciembre":76,"Inactivos Diciembre":7,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3218,"Razon Social":"hswatersolutions","Remito":5027,"Modulo maximo":50,"Activos Septiembre":35,"Activos Octubre":35,"Inactivos Octubre":1,"Activos Noviembre":35,"Inactivos Noviembre":1,"Activos Diciembre":35,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3223,"Razon Social":"agrinter","Remito":5027,"Modulo maximo":50,"Activos Septiembre":11,"Activos Octubre":11,"Inactivos Octubre":0,"Activos Noviembre":11,"Inactivos Noviembre":0,"Activos Diciembre":11,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3226,"Razon Social":"aedin","Remito":5027,"Modulo maximo":200,"Activos Septiembre":189,"Activos Octubre":191,"Inactivos Octubre":39,"Activos Noviembre":191,"Inactivos Noviembre":39,"Activos Diciembre":191,"Inactivos Diciembre":39,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3229,"Razon Social":"promecor","Remito":5027,"Modulo maximo":30,"Activos Septiembre":27,"Activos Octubre":28,"Inactivos Octubre":0,"Activos Noviembre":28,"Inactivos Noviembre":0,"Activos Diciembre":28,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3237,"Razon Social":"ketosdelphin","Remito":5029,"Modulo maximo":77,"Activos Septiembre":87,"Activos Octubre":87,"Inactivos Octubre":22,"Activos Noviembre":90,"Inactivos Noviembre":22,"Activos Diciembre":87,"Inactivos Diciembre":22,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3241,"Razon Social":"dromex","Remito":5029,"Modulo maximo":96,"Activos Septiembre":104,"Activos Octubre":103,"Inactivos Octubre":13,"Activos Noviembre":100,"Inactivos Noviembre":13,"Activos Diciembre":103,"Inactivos Diciembre":13,"OBSERVACIONES":"Recibos 5029 (Por Usuario) o 5027 (Mod)","__EMPTY":""},{"Cliente":3243,"Razon Social":"glo","Remito":5027,"Modulo maximo":50,"Activos Septiembre":15,"Activos Octubre":15,"Inactivos Octubre":0,"Activos Noviembre":15,"Inactivos Noviembre":0,"Activos Diciembre":15,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3244,"Razon Social":"motorarg","Remito":5029,"Modulo maximo":53,"Activos Septiembre":56,"Activos Octubre":56,"Inactivos Octubre":2,"Activos Noviembre":96,"Inactivos Noviembre":2,"Activos Diciembre":56,"Inactivos Diciembre":6,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3245,"Razon Social":"clarkemodet - clarkemodeturuguay","Remito":5027,"Modulo maximo":50,"Activos Septiembre":43,"Activos Octubre":43,"Inactivos Octubre":6,"Activos Noviembre":42,"Inactivos Noviembre":6,"Activos Diciembre":43,"Inactivos Diciembre":9,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3246,"Razon Social":"dfentertainment - dffestival","Remito":5029,"Modulo maximo":60,"Activos Septiembre":274,"Activos Octubre":274,"Inactivos Octubre":9,"Activos Noviembre":274,"Inactivos Noviembre":9,"Activos Diciembre":274,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3248,"Razon Social":"saceip","Remito":5027,"Modulo maximo":50,"Activos Septiembre":50,"Activos Octubre":51,"Inactivos Octubre":"","Activos Noviembre":48,"Inactivos Noviembre":"","Activos Diciembre":51,"Inactivos Diciembre":39,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3249,"Razon Social":"administracioncasella","Remito":5027,"Modulo maximo":70,"Activos Septiembre":47,"Activos Octubre":48,"Inactivos Octubre":39,"Activos Noviembre":49,"Inactivos Noviembre":39,"Activos Diciembre":48,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3250,"Razon Social":"farmaciavital","Remito":5027,"Modulo maximo":50,"Activos Septiembre":37,"Activos Octubre":38,"Inactivos Octubre":4,"Activos Noviembre":39,"Inactivos Noviembre":4,"Activos Diciembre":38,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3252,"Razon Social":"espinlabs - gocloud","Remito":5029,"Modulo maximo":50,"Activos Septiembre":62,"Activos Octubre":62,"Inactivos Octubre":4,"Activos Noviembre":64,"Inactivos Noviembre":4,"Activos Diciembre":62,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3253,"Razon Social":"personalmaritimo","Remito":5029,"Modulo maximo":100,"Activos Septiembre":107,"Activos Octubre":114,"Inactivos Octubre":2,"Activos Noviembre":116,"Inactivos Noviembre":2,"Activos Diciembre":114,"Inactivos Diciembre":10,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3254,"Razon Social":"(GRUPO PARADIÑEIRO) ZANOTTA LAURA ISABEL","Remito":5029,"Modulo maximo":0,"Activos Septiembre":28,"Activos Octubre":28,"Inactivos Octubre":10,"Activos Noviembre":28,"Inactivos Noviembre":10,"Activos Diciembre":29,"Inactivos Diciembre":2,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3255,"Razon Social":"(GRUPO PARADIÑEIRO) FARMACIA PASEO VILLANUEVA SCS","Remito":5029,"Modulo maximo":0,"Activos Septiembre":17,"Activos Octubre":17,"Inactivos Octubre":2,"Activos Noviembre":17,"Inactivos Noviembre":2,"Activos Diciembre":17,"Inactivos Diciembre":3,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3258,"Razon Social":"(GRUPO PARADIÑEIRO) Marsan Diego Javier","Remito":5029,"Modulo maximo":0,"Activos Septiembre":20,"Activos Octubre":19,"Inactivos Octubre":3,"Activos Noviembre":21,"Inactivos Noviembre":3,"Activos Diciembre":19,"Inactivos Diciembre":11,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3259,"Razon Social":"(GRUPO PARADIÑEIRO) Pieresko Mirtha Noemi","Remito":5029,"Modulo maximo":0,"Activos Septiembre":20,"Activos Octubre":21,"Inactivos Octubre":11,"Activos Noviembre":23,"Inactivos Noviembre":11,"Activos Diciembre":21,"Inactivos Diciembre":8,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3260,"Razon Social":"(GRUPO PARADIÑEIRO) Paradiñeiro Victor Hugo","Remito":5029,"Modulo maximo":0,"Activos Septiembre":23,"Activos Octubre":23,"Inactivos Octubre":8,"Activos Noviembre":23,"Inactivos Noviembre":8,"Activos Diciembre":23,"Inactivos Diciembre":3,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3261,"Razon Social":"(GRUPO PARADIÑEIRO) Farmacia Del Nuevo Paseo de Pilar SCS","Remito":5029,"Modulo maximo":0,"Activos Septiembre":19,"Activos Octubre":19,"Inactivos Octubre":3,"Activos Noviembre":19,"Inactivos Noviembre":3,"Activos Diciembre":19,"Inactivos Diciembre":5,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3262,"Razon Social":"(GRUPO PARADIÑEIRO) Misback Sergio Oscar","Remito":5029,"Modulo maximo":0,"Activos Septiembre":21,"Activos Octubre":21,"Inactivos Octubre":5,"Activos Noviembre":21,"Inactivos Noviembre":5,"Activos Diciembre":21,"Inactivos Diciembre":2,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3263,"Razon Social":"(GRUPO PARADIÑEIRO) MISBACK ALEJANDRO MARIANO","Remito":5029,"Modulo maximo":0,"Activos Septiembre":18,"Activos Octubre":18,"Inactivos Octubre":2,"Activos Noviembre":18,"Inactivos Noviembre":2,"Activos Diciembre":18,"Inactivos Diciembre":4,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3264,"Razon Social":"(GRUPO PARADIÑEIRO) INSERPHARMA SA","Remito":5029,"Modulo maximo":0,"Activos Septiembre":19,"Activos Octubre":19,"Inactivos Octubre":4,"Activos Noviembre":19,"Inactivos Noviembre":4,"Activos Diciembre":19,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3265,"Razon Social":"(GRUPO PARADIÑEIRO) FARMACIA ALTOHEY SCS","Remito":5029,"Modulo maximo":0,"Activos Septiembre":10,"Activos Octubre":10,"Inactivos Octubre":0,"Activos Noviembre":11,"Inactivos Noviembre":0,"Activos Diciembre":10,"Inactivos Diciembre":1,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3266,"Razon Social":"(GRUPO PARADIÑEIRO) GP INTEGRAL COMMERCE SA","Remito":5029,"Modulo maximo":0,"Activos Septiembre":4,"Activos Octubre":4,"Inactivos Octubre":1,"Activos Noviembre":4,"Inactivos Noviembre":1,"Activos Diciembre":4,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3267,"Razon Social":"(GRUPO PARADIÑEIRO) AC COLABORACION EMPRESARIA GRUPO GP","Remito":5029,"Modulo maximo":0,"Activos Septiembre":29,"Activos Octubre":29,"Inactivos Octubre":0,"Activos Noviembre":8,"Inactivos Noviembre":0,"Activos Diciembre":8,"Inactivos Diciembre":3,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3268,"Razon Social":"(GRUPO PARADIÑEIRO) FARMACIA DEL MALL SCS","Remito":5029,"Modulo maximo":0,"Activos Septiembre":8,"Activos Octubre":8,"Inactivos Octubre":6,"Activos Noviembre":29,"Inactivos Noviembre":6,"Activos Diciembre":28,"Inactivos Diciembre":9,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3269,"Razon Social":"(GRUPO PARADIÑEIRO) FARMACIA DEL CONCORD SCS","Remito":5029,"Modulo maximo":0,"Activos Septiembre":27,"Activos Octubre":28,"Inactivos Octubre":3,"Activos Noviembre":21,"Inactivos Noviembre":3,"Activos Diciembre":21,"Inactivos Diciembre":1,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3270,"Razon Social":"(GRUPO PARADIÑEIRO) FARMACIA ALTOCANNING SCS","Remito":5029,"Modulo maximo":0,"Activos Septiembre":20,"Activos Octubre":21,"Inactivos Octubre":9,"Activos Noviembre":31,"Inactivos Noviembre":9,"Activos Diciembre":29,"Inactivos Diciembre":6,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3271,"Razon Social":"musher","Remito":5027,"Modulo maximo":90,"Activos Septiembre":24,"Activos Octubre":24,"Inactivos Octubre":1,"Activos Noviembre":24,"Inactivos Noviembre":1,"Activos Diciembre":24,"Inactivos Diciembre":3,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3274,"Razon Social":"farmaet","Remito":5029,"Modulo maximo":75,"Activos Septiembre":75,"Activos Octubre":80,"Inactivos Octubre":3,"Activos Noviembre":82,"Inactivos Noviembre":3,"Activos Diciembre":80,"Inactivos Diciembre":10,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3278,"Razon Social":"prodalsa","Remito":5029,"Modulo maximo":87,"Activos Septiembre":89,"Activos Octubre":90,"Inactivos Octubre":10,"Activos Noviembre":91,"Inactivos Noviembre":10,"Activos Diciembre":90,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3279,"Razon Social":"sutransporte","Remito":5029,"Modulo maximo":0,"Activos Septiembre":43,"Activos Octubre":43,"Inactivos Octubre":2,"Activos Noviembre":43,"Inactivos Noviembre":2,"Activos Diciembre":43,"Inactivos Diciembre":1,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3280,"Razon Social":"transportedonantonio","Remito":5029,"Modulo maximo":0,"Activos Septiembre":288,"Activos Octubre":286,"Inactivos Octubre":1,"Activos Noviembre":285,"Inactivos Noviembre":1,"Activos Diciembre":286,"Inactivos Diciembre":33,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3285,"Razon Social":"dps","Remito":5029,"Modulo maximo":50,"Activos Septiembre":198,"Activos Octubre":199,"Inactivos Octubre":33,"Activos Noviembre":199,"Inactivos Noviembre":33,"Activos Diciembre":199,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3286,"Razon Social":"garajedonantonio","Remito":5029,"Modulo maximo":0,"Activos Septiembre":7,"Activos Octubre":7,"Inactivos Octubre":4,"Activos Noviembre":7,"Inactivos Noviembre":4,"Activos Diciembre":7,"Inactivos Diciembre":3,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3287,"Razon Social":"controlarg","Remito":5027,"Modulo maximo":50,"Activos Septiembre":21,"Activos Octubre":21,"Inactivos Octubre":3,"Activos Noviembre":20,"Inactivos Noviembre":3,"Activos Diciembre":21,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3288,"Razon Social":"mcassab","Remito":5027,"Modulo maximo":50,"Activos Septiembre":33,"Activos Octubre":33,"Inactivos Octubre":4,"Activos Noviembre":33,"Inactivos Noviembre":4,"Activos Diciembre":33,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3289,"Razon Social":"brugsa","Remito":5027,"Modulo maximo":50,"Activos Septiembre":31,"Activos Octubre":31,"Inactivos Octubre":0,"Activos Noviembre":33,"Inactivos Noviembre":0,"Activos Diciembre":31,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3290,"Razon Social":"unlimitedworld","Remito":5027,"Modulo maximo":31,"Activos Septiembre":32,"Activos Octubre":32,"Inactivos Octubre":1,"Activos Noviembre":33,"Inactivos Noviembre":1,"Activos Diciembre":32,"Inactivos Diciembre":10,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3292,"Razon Social":"tevelam","Remito":5029,"Modulo maximo":100,"Activos Septiembre":114,"Activos Octubre":116,"Inactivos Octubre":10,"Activos Noviembre":116,"Inactivos Noviembre":10,"Activos Diciembre":116,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3293,"Razon Social":"ecovis","Remito":5027,"Modulo maximo":50,"Activos Septiembre":28,"Activos Octubre":28,"Inactivos Octubre":0,"Activos Noviembre":28,"Inactivos Noviembre":0,"Activos Diciembre":28,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3295,"Razon Social":"lamantequeria","Remito":5029,"Modulo maximo":55,"Activos Septiembre":60,"Activos Octubre":60,"Inactivos Octubre":1,"Activos Noviembre":58,"Inactivos Noviembre":1,"Activos Diciembre":60,"Inactivos Diciembre":9,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3297,"Razon Social":"Krustafish (superbe)","Remito":5027,"Modulo maximo":50,"Activos Septiembre":13,"Activos Octubre":12,"Inactivos Octubre":9,"Activos Noviembre":12,"Inactivos Noviembre":9,"Activos Diciembre":12,"Inactivos Diciembre":13,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3298,"Razon Social":"Armadora San Jorge (superbe)","Remito":5027,"Modulo maximo":50,"Activos Septiembre":31,"Activos Octubre":32,"Inactivos Octubre":13,"Activos Noviembre":31,"Inactivos Noviembre":13,"Activos Diciembre":32,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3302,"Razon Social":"anchoitanews","Remito":5027,"Modulo maximo":50,"Activos Septiembre":4,"Activos Octubre":4,"Inactivos Octubre":4,"Activos Noviembre":4,"Inactivos Noviembre":4,"Activos Diciembre":4,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3304,"Razon Social":"ciudadcultural","Remito":5027,"Modulo maximo":50,"Activos Septiembre":45,"Activos Octubre":45,"Inactivos Octubre":0,"Activos Noviembre":46,"Inactivos Noviembre":0,"Activos Diciembre":45,"Inactivos Diciembre":3,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3305,"Razon Social":"ipei","Remito":5029,"Modulo maximo":85,"Activos Septiembre":86,"Activos Octubre":86,"Inactivos Octubre":3,"Activos Noviembre":86,"Inactivos Noviembre":3,"Activos Diciembre":86,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3307,"Razon Social":"contactco","Remito":5029,"Modulo maximo":50,"Activos Septiembre":116,"Activos Octubre":116,"Inactivos Octubre":2,"Activos Noviembre":132,"Inactivos Noviembre":2,"Activos Diciembre":116,"Inactivos Diciembre":29,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3308,"Razon Social":"sanpablo","Remito":5027,"Modulo maximo":70,"Activos Septiembre":58,"Activos Octubre":58,"Inactivos Octubre":29,"Activos Noviembre":59,"Inactivos Noviembre":29,"Activos Diciembre":58,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3309,"Razon Social":"flowtex","Remito":5027,"Modulo maximo":50,"Activos Septiembre":18,"Activos Octubre":18,"Inactivos Octubre":0,"Activos Noviembre":18,"Inactivos Noviembre":0,"Activos Diciembre":18,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3310,"Razon Social":"cui","Remito":5029,"Modulo maximo":62,"Activos Septiembre":149,"Activos Octubre":148,"Inactivos Octubre":0,"Activos Noviembre":149,"Inactivos Noviembre":0,"Activos Diciembre":148,"Inactivos Diciembre":8,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3311,"Razon Social":"readymind","Remito":5029,"Modulo maximo":72,"Activos Septiembre":83,"Activos Octubre":85,"Inactivos Octubre":8,"Activos Noviembre":90,"Inactivos Noviembre":8,"Activos Diciembre":85,"Inactivos Diciembre":7,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3312,"Razon Social":"vaulten","Remito":5027,"Modulo maximo":50,"Activos Septiembre":26,"Activos Octubre":26,"Inactivos Octubre":7,"Activos Noviembre":27,"Inactivos Noviembre":7,"Activos Diciembre":26,"Inactivos Diciembre":7,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3313,"Razon Social":"low","Remito":0,"Modulo maximo":50,"Activos Septiembre":5,"Activos Octubre":5,"Inactivos Octubre":7,"Activos Noviembre":5,"Inactivos Noviembre":7,"Activos Diciembre":5,"Inactivos Diciembre":0,"OBSERVACIONES":"NO- PAUSA","__EMPTY":""},{"Cliente":3314,"Razon Social":"nuevorumbo","Remito":5027,"Modulo maximo":50,"Activos Septiembre":30,"Activos Octubre":30,"Inactivos Octubre":0,"Activos Noviembre":30,"Inactivos Noviembre":0,"Activos Diciembre":30,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3316,"Razon Social":"caremi","Remito":5027,"Modulo maximo":50,"Activos Septiembre":23,"Activos Octubre":24,"Inactivos Octubre":2,"Activos Noviembre":25,"Inactivos Noviembre":2,"Activos Diciembre":24,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3320,"Razon Social":"msccruceros","Remito":5027,"Modulo maximo":50,"Activos Septiembre":46,"Activos Octubre":46,"Inactivos Octubre":1,"Activos Noviembre":47,"Inactivos Noviembre":1,"Activos Diciembre":46,"Inactivos Diciembre":11,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3321,"Razon Social":"mooving","Remito":5027,"Modulo maximo":50,"Activos Septiembre":23,"Activos Octubre":23,"Inactivos Octubre":11,"Activos Noviembre":23,"Inactivos Noviembre":11,"Activos Diciembre":23,"Inactivos Diciembre":3,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3322,"Razon Social":"siscard","Remito":5029,"Modulo maximo":62,"Activos Septiembre":136,"Activos Octubre":151,"Inactivos Octubre":3,"Activos Noviembre":141,"Inactivos Noviembre":3,"Activos Diciembre":151,"Inactivos Diciembre":32,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3323,"Razon Social":"maigda","Remito":5027,"Modulo maximo":80,"Activos Septiembre":68,"Activos Octubre":71,"Inactivos Octubre":32,"Activos Noviembre":74,"Inactivos Noviembre":32,"Activos Diciembre":71,"Inactivos Diciembre":5,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3327,"Razon Social":"HS WATER ","Remito":5034,"Modulo maximo":100,"Activos Septiembre":7,"Activos Octubre":3,"Inactivos Octubre":5,"Activos Noviembre":11,"Inactivos Noviembre":5,"Activos Diciembre":0,"Inactivos Diciembre":0,"OBSERVACIONES":"Sign &File Corresponde por 5039 (Firmador) o 5034 (Mod) ","__EMPTY":""},{"Cliente":3333,"Razon Social":"lg semillas (SURSEM)","Remito":5034,"Modulo maximo":100,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":1,"Inactivos Noviembre":0,"Activos Diciembre":0,"Inactivos Diciembre":0,"OBSERVACIONES":"Sign &File Corresponde por 5039 (Firmador) o 5034 (Mod) ","__EMPTY":""},{"Cliente":3335,"Razon Social":"fresh","Remito":5027,"Modulo maximo":50,"Activos Septiembre":24,"Activos Octubre":23,"Inactivos Octubre":0,"Activos Noviembre":23,"Inactivos Noviembre":0,"Activos Diciembre":23,"Inactivos Diciembre":4,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3338,"Razon Social":"asir","Remito":5029,"Modulo maximo":42,"Activos Septiembre":47,"Activos Octubre":47,"Inactivos Octubre":4,"Activos Noviembre":47,"Inactivos Noviembre":4,"Activos Diciembre":47,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3342,"Razon Social":"graphiczone","Remito":5029,"Modulo maximo":0,"Activos Septiembre":11,"Activos Octubre":11,"Inactivos Octubre":0,"Activos Noviembre":11,"Inactivos Noviembre":0,"Activos Diciembre":11,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3343,"Razon Social":"Esetec SRL ( Graphic Zone)","Remito":5027,"Modulo maximo":0,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":38,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario / Este mes se proceso remito por cod 5027","__EMPTY":""},{"Cliente":3344,"Razon Social":"pehuenia","Remito":5029,"Modulo maximo":0,"Activos Septiembre":61,"Activos Octubre":62,"Inactivos Octubre":0,"Activos Noviembre":62,"Inactivos Noviembre":0,"Activos Diciembre":62,"Inactivos Diciembre":2,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3345,"Razon Social":"comercializadora","Remito":5029,"Modulo maximo":0,"Activos Septiembre":7,"Activos Octubre":7,"Inactivos Octubre":2,"Activos Noviembre":7,"Inactivos Noviembre":2,"Activos Diciembre":7,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3346,"Razon Social":"lagopuelo","Remito":5029,"Modulo maximo":0,"Activos Septiembre":43,"Activos Octubre":45,"Inactivos Octubre":0,"Activos Noviembre":46,"Inactivos Noviembre":0,"Activos Diciembre":45,"Inactivos Diciembre":5,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3347,"Razon Social":"paraiso","Remito":5029,"Modulo maximo":0,"Activos Septiembre":6,"Activos Octubre":6,"Inactivos Octubre":5,"Activos Noviembre":6,"Inactivos Noviembre":5,"Activos Diciembre":6,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3348,"Razon Social":"intermaco","Remito":5029,"Modulo maximo":0,"Activos Septiembre":73,"Activos Octubre":73,"Inactivos Octubre":0,"Activos Noviembre":73,"Inactivos Noviembre":0,"Activos Diciembre":73,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3349,"Razon Social":"omnichannel","Remito":5029,"Modulo maximo":0,"Activos Septiembre":203,"Activos Octubre":204,"Inactivos Octubre":0,"Activos Noviembre":204,"Inactivos Noviembre":0,"Activos Diciembre":204,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3351,"Razon Social":"clacso","Remito":5029,"Modulo maximo":40,"Activos Septiembre":50,"Activos Octubre":50,"Inactivos Octubre":0,"Activos Noviembre":51,"Inactivos Noviembre":0,"Activos Diciembre":50,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3352,"Razon Social":"raico","Remito":0,"Modulo maximo":0,"Activos Septiembre":47,"Activos Octubre":47,"Inactivos Octubre":0,"Activos Noviembre":47,"Inactivos Noviembre":0,"Activos Diciembre":47,"Inactivos Diciembre":0,"OBSERVACIONES":"PAUSA HASTA DICIEMBRE (Remito por usuario)","__EMPTY":""},{"Cliente":3353,"Razon Social":"oce","Remito":0,"Modulo maximo":0,"Activos Septiembre":17,"Activos Octubre":17,"Inactivos Octubre":0,"Activos Noviembre":17,"Inactivos Noviembre":0,"Activos Diciembre":17,"Inactivos Diciembre":0,"OBSERVACIONES":"PAUSA HASTA DICIEMBRE (Remito por usuario)","__EMPTY":""},{"Cliente":3354,"Razon Social":"vazquezehijos","Remito":5029,"Modulo maximo":0,"Activos Septiembre":44,"Activos Octubre":46,"Inactivos Octubre":0,"Activos Noviembre":48,"Inactivos Noviembre":0,"Activos Diciembre":46,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3355,"Razon Social":"epv","Remito":5029,"Modulo maximo":0,"Activos Septiembre":69,"Activos Octubre":70,"Inactivos Octubre":0,"Activos Noviembre":70,"Inactivos Noviembre":0,"Activos Diciembre":70,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3356,"Razon Social":"auxiliosanblas","Remito":5029,"Modulo maximo":0,"Activos Septiembre":33,"Activos Octubre":34,"Inactivos Octubre":0,"Activos Noviembre":34,"Inactivos Noviembre":0,"Activos Diciembre":34,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3357,"Razon Social":"temis","Remito":5029,"Modulo maximo":300,"Activos Septiembre":333,"Activos Octubre":296,"Inactivos Octubre":0,"Activos Noviembre":314,"Inactivos Noviembre":0,"Activos Diciembre":300,"Inactivos Diciembre":58,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3359,"Razon Social":"fertilizar","Remito":5027,"Modulo maximo":50,"Activos Septiembre":5,"Activos Octubre":5,"Inactivos Octubre":62,"Activos Noviembre":5,"Inactivos Noviembre":62,"Activos Diciembre":5,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3361,"Razon Social":"bettersecurity","Remito":5027,"Modulo maximo":100,"Activos Septiembre":77,"Activos Octubre":77,"Inactivos Octubre":0,"Activos Noviembre":75,"Inactivos Noviembre":0,"Activos Diciembre":77,"Inactivos Diciembre":13,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3362,"Razon Social":"tecnolab","Remito":5029,"Modulo maximo":68,"Activos Septiembre":69,"Activos Octubre":70,"Inactivos Octubre":13,"Activos Noviembre":70,"Inactivos Noviembre":13,"Activos Diciembre":70,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3363,"Razon Social":"fatfa","Remito":5029,"Modulo maximo":50,"Activos Septiembre":60,"Activos Octubre":60,"Inactivos Octubre":0,"Activos Noviembre":60,"Inactivos Noviembre":0,"Activos Diciembre":60,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3364,"Razon Social":"broadbandtech","Remito":5027,"Modulo maximo":100,"Activos Septiembre":94,"Activos Octubre":95,"Inactivos Octubre":0,"Activos Noviembre":97,"Inactivos Noviembre":0,"Activos Diciembre":95,"Inactivos Diciembre":2,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3368,"Razon Social":"BELGAUM - VALID","Remito":0,"Modulo maximo":100,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":2,"Activos Noviembre":0,"Inactivos Noviembre":2,"Activos Diciembre":0,"Inactivos Diciembre":0,"OBSERVACIONES":"NO","__EMPTY":""},{"Cliente":3370,"Razon Social":"argentinaonthego","Remito":5027,"Modulo maximo":30,"Activos Septiembre":24,"Activos Octubre":24,"Inactivos Octubre":0,"Activos Noviembre":24,"Inactivos Noviembre":0,"Activos Diciembre":24,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3372,"Razon Social":"DEUTSCHE AUTOTEILE UND","Remito":5027,"Modulo maximo":50,"Activos Septiembre":49,"Activos Octubre":49,"Inactivos Octubre":1,"Activos Noviembre":49,"Inactivos Noviembre":1,"Activos Diciembre":49,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3373,"Razon Social":"C.H. ROBINSON WORLDWIDE ARG S.A.","Remito":0,"Modulo maximo":94,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":0,"Inactivos Diciembre":0,"OBSERVACIONES":"NO","__EMPTY":""},{"Cliente":3374,"Razon Social":"INSTITUTO DEL SOL S A","Remito":5027,"Modulo maximo":50,"Activos Septiembre":34,"Activos Octubre":34,"Inactivos Octubre":0,"Activos Noviembre":36,"Inactivos Noviembre":0,"Activos Diciembre":34,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3375,"Razon Social":"SES SA","Remito":5029,"Modulo maximo":630,"Activos Septiembre":637,"Activos Octubre":650,"Inactivos Octubre":0,"Activos Noviembre":690,"Inactivos Noviembre":0,"Activos Diciembre":650,"Inactivos Diciembre":7,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3380,"Razon Social":"grupomedicomaschwitz","Remito":5029,"Modulo maximo":90,"Activos Septiembre":94,"Activos Octubre":96,"Inactivos Octubre":7,"Activos Noviembre":101,"Inactivos Noviembre":7,"Activos Diciembre":96,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3382,"Razon Social":"Unitecprocom SA","Remito":5029,"Modulo maximo":0,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":40,"Inactivos Noviembre":0,"Activos Diciembre":32,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3386,"Razon Social":"Comcam SRL","Remito":5029,"Modulo maximo":0,"Activos Septiembre":103,"Activos Octubre":103,"Inactivos Octubre":0,"Activos Noviembre":110,"Inactivos Noviembre":0,"Activos Diciembre":103,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3387,"Razon Social":"Combustibles PC SRL","Remito":5029,"Modulo maximo":0,"Activos Septiembre":0,"Activos Octubre":18,"Inactivos Octubre":0,"Activos Noviembre":18,"Inactivos Noviembre":0,"Activos Diciembre":18,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3390,"Razon Social":"Petrocom Argentina SA","Remito":5029,"Modulo maximo":0,"Activos Septiembre":0,"Activos Octubre":18,"Inactivos Octubre":0,"Activos Noviembre":18,"Inactivos Noviembre":0,"Activos Diciembre":18,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3392,"Razon Social":"Escorihuela Gascon","Remito":5029,"Modulo maximo":60,"Activos Septiembre":57,"Activos Octubre":203,"Inactivos Octubre":0,"Activos Noviembre":204,"Inactivos Noviembre":0,"Activos Diciembre":203,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3393,"Razon Social":"AM SEGURIDAD","Remito":5029,"Modulo maximo":0,"Activos Septiembre":439,"Activos Octubre":475,"Inactivos Octubre":0,"Activos Noviembre":481,"Inactivos Noviembre":0,"Activos Diciembre":491,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3395,"Razon Social":"gsibunker - cleanworker","Remito":5027,"Modulo maximo":145,"Activos Septiembre":131,"Activos Octubre":133,"Inactivos Octubre":0,"Activos Noviembre":134,"Inactivos Noviembre":3,"Activos Diciembre":133,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3396,"Razon Social":"tomografia","Remito":5027,"Modulo maximo":20,"Activos Septiembre":17,"Activos Octubre":16,"Inactivos Octubre":1,"Activos Noviembre":16,"Inactivos Noviembre":1,"Activos Diciembre":16,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3397,"Razon Social":"rmimagenes","Remito":5027,"Modulo maximo":20,"Activos Septiembre":19,"Activos Octubre":19,"Inactivos Octubre":0,"Activos Noviembre":19,"Inactivos Noviembre":0,"Activos Diciembre":19,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3398,"Razon Social":"nuvodigital","Remito":5027,"Modulo maximo":110,"Activos Septiembre":90,"Activos Octubre":86,"Inactivos Octubre":0,"Activos Noviembre":86,"Inactivos Noviembre":0,"Activos Diciembre":86,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3400,"Razon Social":"connectioncenter","Remito":5027,"Modulo maximo":60,"Activos Septiembre":38,"Activos Octubre":46,"Inactivos Octubre":0,"Activos Noviembre":32,"Inactivos Noviembre":0,"Activos Diciembre":46,"Inactivos Diciembre":12,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3402,"Razon Social":"bettercatering","Remito":5029,"Modulo maximo":50,"Activos Septiembre":6,"Activos Octubre":65,"Inactivos Octubre":12,"Activos Noviembre":240,"Inactivos Noviembre":12,"Activos Diciembre":388,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3403,"Razon Social":"EME CORRIENTES S.A.","Remito":5029,"Modulo maximo":50,"Activos Septiembre":108,"Activos Octubre":108,"Inactivos Octubre":0,"Activos Noviembre":104,"Inactivos Noviembre":0,"Activos Diciembre":102,"Inactivos Diciembre":7,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3404,"Razon Social":"awaresolutions","Remito":5027,"Modulo maximo":10,"Activos Septiembre":9,"Activos Octubre":9,"Inactivos Octubre":0,"Activos Noviembre":9,"Inactivos Noviembre":5,"Activos Diciembre":9,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3405,"Razon Social":"posadas","Remito":5027,"Modulo maximo":5000,"Activos Septiembre":4684,"Activos Octubre":4687,"Inactivos Octubre":0,"Activos Noviembre":4662,"Inactivos Noviembre":0,"Activos Diciembre":4645,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3406,"Razon Social":"oseivyseivara","Remito":5027,"Modulo maximo":50,"Activos Septiembre":44,"Activos Octubre":43,"Inactivos Octubre":0,"Activos Noviembre":44,"Inactivos Noviembre":0,"Activos Diciembre":43,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3408,"Razon Social":"ciprema","Remito":5027,"Modulo maximo":200,"Activos Septiembre":4,"Activos Octubre":4,"Inactivos Octubre":0,"Activos Noviembre":182,"Inactivos Noviembre":0,"Activos Diciembre":182,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3409,"Razon Social":"meridiangroup","Remito":5029,"Modulo maximo":50,"Activos Septiembre":73,"Activos Octubre":111,"Inactivos Octubre":0,"Activos Noviembre":116,"Inactivos Noviembre":0,"Activos Diciembre":111,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3415,"Razon Social":"CON. LOS CARDALES COU","Remito":0,"Modulo maximo":150,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":1,"Activos Noviembre":0,"Inactivos Noviembre":1,"Activos Diciembre":6,"Inactivos Diciembre":0,"OBSERVACIONES":"Sign &File Corresponde Cod. 5040 (Mod Visal.)  o 5041 (Visual. Unitaria)","__EMPTY":""},{"Cliente":3424,"Razon Social":"EME CHACO SA","Remito":5029,"Modulo maximo":50,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":128,"Inactivos Noviembre":0,"Activos Diciembre":124,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3425,"Razon Social":"CESPEDES LIBROS S.A.S","Remito":5027,"Modulo maximo":50,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":10,"Inactivos Noviembre":0,"Activos Diciembre":9,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3428,"Razon Social":"TIEMPO LATINO SA (Joyeria )","Remito":5027,"Modulo maximo":50,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":37,"Inactivos Noviembre":0,"Activos Diciembre":31,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3429,"Razon Social":"METAGAL SA","Remito":5029,"Modulo maximo":50,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":179,"Inactivos Noviembre":0,"Activos Diciembre":182,"Inactivos Diciembre":1,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3433,"Razon Social":"PULIDOS SAU ","Remito":0,"Modulo maximo":50,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":88,"Inactivos Noviembre":0,"Activos Diciembre":86,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3437,"Razon Social":"ADAMA SOCIEDAD ANÓNIMA","Remito":0,"Modulo maximo":50,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":0,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3440,"Razon Social":"SOUTEX S.A.","Remito":5029,"Modulo maximo":0,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":0,"Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":69,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3441,"Razon Social":"FORMAS PUBLICITARIAS S.A.","Remito":5029,"Modulo maximo":0,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":31,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito por usuario","__EMPTY":""},{"Cliente":3442,"Razon Social":"INDUPLAST SA  (Belgaum)","Remito":0,"Modulo maximo":250,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":0,"Inactivos Diciembre":0,"OBSERVACIONES":"(Nos reunimos el 10/01 para dar inicio)","__EMPTY":""},{"Cliente":3443,"Razon Social":"RIZZO ALDO FEDERICO","Remito":5034,"Modulo maximo":15,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":2,"Inactivos Noviembre":0,"Activos Diciembre":13,"Inactivos Diciembre":0,"OBSERVACIONES":"Sign &File Corresponde por 5039 (Firmador) o 5034 (Mod) ","__EMPTY":""},{"Cliente":3444,"Razon Social":"PATAGONIA SUNRISE SRL","Remito":0,"Modulo maximo":50,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":0,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3445,"Razon Social":"CTRO CONS.S.A.- PENTAMAR S.A.-UT RIO SALADO U. T. E.","Remito":0,"Modulo maximo":50,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":2,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3447,"Razon Social":"DISPROFARMA SA","Remito":0,"Modulo maximo":560,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":556,"Inactivos Diciembre":0,"OBSERVACIONES":"(Nos compartio la nomina completa el 27/12) para implementar","__EMPTY":""},{"Cliente":3449,"Razon Social":"TI SISTEMAS","Remito":0,"Modulo maximo":10,"Activos Septiembre":0,"Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":0,"Activos Diciembre":8,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3452,"Razon Social":"dromex","Remito":4186,"Modulo maximo":0,"Activos Septiembre":101,"Activos Octubre":102,"Inactivos Octubre":"","Activos Noviembre":102,"Inactivos Noviembre":0,"Activos Diciembre":97,"Inactivos Diciembre":0,"OBSERVACIONES":"Remito x Cantidad de Fichadas COD 4186 (Ver c/ Juan o Nazarena)","__EMPTY":""},{"Cliente":3453,"Razon Social":"Noetec SRL","Remito":0,"Modulo maximo":50,"Activos Septiembre":"","Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":"","Activos Diciembre":18,"Inactivos Diciembre":0,"OBSERVACIONES":"Nos envio la nomina el 02/1 ","__EMPTY":""},{"Cliente":3454,"Razon Social":"Biodiagnotico SA","Remito":0,"Modulo maximo":50,"Activos Septiembre":"","Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":"","Activos Diciembre":66,"Inactivos Diciembre":0,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":3458,"Razon Social":"Ziade Pablo Ricardo","Remito":0,"Modulo maximo":15,"Activos Septiembre":"","Activos Octubre":0,"Inactivos Octubre":"","Activos Noviembre":0,"Inactivos Noviembre":"","Activos Diciembre":4,"Inactivos Diciembre":0,"OBSERVACIONES":"Sign &File Corresponde por 5039 (Firmas) o 5034 (Mod) ","__EMPTY":""},{"Cliente":"","Razon Social":"TOTALES","Remito":"","Modulo maximo":"","Activos Septiembre":52052,"Activos Octubre":52564,"Inactivos Octubre":4385,"Activos Noviembre":53210,"Inactivos Noviembre":4393,"Activos Diciembre":54019,"Inactivos Diciembre":4492,"OBSERVACIONES":"","__EMPTY":""},{"Cliente":"","Razon Social":"Clientes Bonificados ","Remito":"","Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":"","Razon Social":"Clientes Sin Implementar","Remito":"","Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":"Comentarios sobre Cl sin movimientos y  Otros: ","Razon Social":"","Remito":"","Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3458,"Razon Social":"Ziade Pablo Ricardo","Remito":4,"Modulo maximo":"Tiene 4 firmas y una pendiente (se factura por firmas en cada DOC compartido ","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3009,"Razon Social":"nueva energia","Remito":0,"Modulo maximo":"No subieron doc.","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3327,"Razon Social":"HS WATER ","Remito":0,"Modulo maximo":"No subieron doc.","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3333,"Razon Social":"lg semillas (SURSEM)","Remito":0,"Modulo maximo":"No subieron doc.","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3095,"Razon Social":"mediamax","Remito":0,"Modulo maximo":"No usa la Plataf. Esperamos respuesta del Cl.","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":2343,"Razon Social":"endress","Remito":0,"Modulo maximo":"Sin novedades no usa la plataforma","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":"faltan nominas de Altas Noviembre :","Razon Social":"","Remito":"","Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3437,"Razon Social":"ADAMA SOCIEDAD ANÓNIMA","Remito":100,"Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3442,"Razon Social":"INDUPLAST SA  (Belgaum)","Remito":250,"Modulo maximo":"(Nos reunimos el 10/01 para dar inicio)","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3445,"Razon Social":"CTRO CONS.- PENTAMAR S.A.-UT RIO S","Remito":40,"Modulo maximo":"Digilogix tiene suspendidas las licencias hasta finales de enero. ","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":3444,"Razon Social":"PATAGONIA SUNRISE SRL","Remito":170,"Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":"TOTAL","Razon Social":"","Remito":560,"Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":"MES","Razon Social":"ALTAS CL RECIBOS ","Remito":" TOTAL","Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":"NOVIEMBRE","Razon Social":6,"Remito":660,"Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":"DICIEMBRE","Razon Social":4,"Remito":651,"Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""},{"Cliente":"TOTAL","Razon Social":"","Remito":1311,"Modulo maximo":"","Activos Septiembre":"","Activos Octubre":"","Inactivos Octubre":"","Activos Noviembre":"","Inactivos Noviembre":"","Activos Diciembre":"","Inactivos Diciembre":"","OBSERVACIONES":"","__EMPTY":""}
+]

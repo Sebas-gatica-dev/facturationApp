@@ -1,0 +1,1467 @@
+[
+    {
+        "cliente": "1670",
+        "nombre": "Bristol Medicine doc. Compartidos",
+        "maximo": "100",
+        "remito": "5034"
+    },
+    {
+        "cliente": "2343",
+        "nombre": "Endress Hauser Argentina SA",
+        "maximo": "66",
+        "remito": "5036"
+    },
+    {
+        "cliente": "2832",
+        "nombre": "pentamar",
+        "maximo": "170",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2841",
+        "nombre": "cym",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2859",
+        "nombre": "conbensil",
+        "maximo": "150",
+        "remito": "5037"
+    },
+    {
+        "cliente": "2860",
+        "nombre": "site",
+        "maximo": "180",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2864",
+        "nombre": "educar",
+        "maximo": "340",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2869",
+        "nombre": "dasa DRAGOS",
+        "maximo": "171",
+        "remito": "NO "
+    },
+    {
+        "cliente": "2902",
+        "nombre": "cfotech",
+        "maximo": "120",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2904",
+        "nombre": "construccionesrm",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2905",
+        "nombre": "umbriel",
+        "maximo": "7",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2906",
+        "nombre": "chemical",
+        "maximo": "28",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2929",
+        "nombre": "lltraslados",
+        "maximo": "100",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2933",
+        "nombre": "bml",
+        "maximo": "60",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2936",
+        "nombre": "chazki",
+        "maximo": "60",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2947",
+        "nombre": "cebol",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2948",
+        "nombre": "isade",
+        "maximo": "112",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2954",
+        "nombre": "estudioflores",
+        "maximo": "15",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2955",
+        "nombre": "comahue",
+        "maximo": "30",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2956",
+        "nombre": "lubchem",
+        "maximo": "30",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2960",
+        "nombre": "sicoex",
+        "maximo": "40",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2966",
+        "nombre": "mwlog",
+        "maximo": "20",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2967",
+        "nombre": "eagle",
+        "maximo": "20",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2968",
+        "nombre": "muchnik",
+        "maximo": "30",
+        "remito": "no"
+    },
+    {
+        "cliente": "2969",
+        "nombre": "ochominutos",
+        "maximo": "30",
+        "remito": "no"
+    },
+    {
+        "cliente": "2973",
+        "nombre": "g4s/g4sconfidenciales",
+        "maximo": "3500",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2979",
+        "nombre": "acriter",
+        "maximo": "15",
+        "remito": "5027"
+    },
+    {
+        "cliente": "2981",
+        "nombre": "manuchar",
+        "maximo": "30",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2982",
+        "nombre": "tembici",
+        "maximo": "115",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2987",
+        "nombre": "cheil",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "2994",
+        "nombre": "longport",
+        "maximo": "439",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3001",
+        "nombre": "camozzi",
+        "maximo": "30",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3001",
+        "nombre": "camozzi Fac Compartidas",
+        "maximo": "",
+        "remito": "5037"
+    },
+    {
+        "cliente": "3004",
+        "nombre": "errekaese",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3009",
+        "nombre": "nuevaenergia",
+        "maximo": "40",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3009",
+        "nombre": "nuevaenergia doc compartidos",
+        "maximo": "",
+        "remito": ""
+    },
+    {
+        "cliente": "3012",
+        "nombre": "korn",
+        "maximo": "40",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3015",
+        "nombre": "fracht",
+        "maximo": "64",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3016",
+        "nombre": "qsand",
+        "maximo": "20",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3018",
+        "nombre": "elcronista",
+        "maximo": "125",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3019",
+        "nombre": "uomaxace",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3020",
+        "nombre": "uomaxalsina",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3021",
+        "nombre": "uomaxavellaneda",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3022",
+        "nombre": "uomaxbustamante",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3023",
+        "nombre": "uomaxdelia",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3024",
+        "nombre": "uomaxdelpuente",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3025",
+        "nombre": "uomaxescalada",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3026",
+        "nombre": "uomaxgerli",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3027",
+        "nombre": "uomaxgorriti",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3028",
+        "nombre": "uomaxlanus",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3029",
+        "nombre": "uomaxmitre",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3030",
+        "nombre": "uomaxmoderna",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3031",
+        "nombre": "uomaxtemperley",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3033",
+        "nombre": "biemme",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3039",
+        "nombre": "lachybs",
+        "maximo": "150",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3040",
+        "nombre": "vecchiohnossrl",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3042",
+        "nombre": "sialar",
+        "maximo": "150",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3043",
+        "nombre": "amd",
+        "maximo": "150",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3044",
+        "nombre": "gptw",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3047",
+        "nombre": "das",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3048",
+        "nombre": "proanalisis",
+        "maximo": "90",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3049",
+        "nombre": "omnilife",
+        "maximo": "75",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3050",
+        "nombre": "anchoita",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3051",
+        "nombre": "anchoitafilms",
+        "maximo": "75",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3052",
+        "nombre": "stagecompany",
+        "maximo": "75",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3053",
+        "nombre": "iproject",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3059",
+        "nombre": "bauschlomb",
+        "maximo": "100",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3063",
+        "nombre": "sulmineira",
+        "maximo": "39",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3064",
+        "nombre": "corpomedica",
+        "maximo": "83",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3065",
+        "nombre": "certant",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3068",
+        "nombre": "logitec",
+        "maximo": "200",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3080",
+        "nombre": "saco",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3083",
+        "nombre": "cemetec",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3086",
+        "nombre": "Op Ferroviaria Soc Del Estado",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3087",
+        "nombre": "calello",
+        "maximo": "20",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3090",
+        "nombre": "apla",
+        "maximo": "100",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3093",
+        "nombre": "mimo/mimovip",
+        "maximo": "75",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3095",
+        "nombre": "mediamax",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3097",
+        "nombre": "fecoba",
+        "maximo": "38",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3106",
+        "nombre": "isowean",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3107",
+        "nombre": "carda",
+        "maximo": "192",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3111",
+        "nombre": "Pastalinda",
+        "maximo": "90",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3113",
+        "nombre": "monsa",
+        "maximo": "40",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3116",
+        "nombre": "dalegas",
+        "maximo": "30",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3118",
+        "nombre": "goyacorrientes",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3119",
+        "nombre": "martinycia",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3120",
+        "nombre": "evasa",
+        "maximo": "80",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3121",
+        "nombre": "Mancia (Meridiano)",
+        "maximo": "17",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3122",
+        "nombre": "Pamat (Meridiano)",
+        "maximo": "17",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3123",
+        "nombre": "meridianonorte",
+        "maximo": "17",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3133",
+        "nombre": "sise",
+        "maximo": "300",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3137",
+        "nombre": "impexpro",
+        "maximo": "30",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3138",
+        "nombre": "gebayipgs",
+        "maximo": "380",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3140",
+        "nombre": "todomusica",
+        "maximo": "60",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3141",
+        "nombre": "degac",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3142",
+        "nombre": "geosistemas",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3144",
+        "nombre": "arc",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3145",
+        "nombre": "biopas",
+        "maximo": "49",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3146",
+        "nombre": "ospf",
+        "maximo": "180",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3147",
+        "nombre": "messefrankfurt",
+        "maximo": "40",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3158",
+        "nombre": "digitalvirgo",
+        "maximo": "20",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3159",
+        "nombre": "item",
+        "maximo": "56",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3160",
+        "nombre": "absa",
+        "maximo": "56",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3162",
+        "nombre": "Quiroga Paula Daniela",
+        "maximo": "35",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3163",
+        "nombre": "agentecentral",
+        "maximo": "43",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3164",
+        "nombre": "onetelefonia",
+        "maximo": "44",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3165",
+        "nombre": "pastandfood",
+        "maximo": "35",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3166",
+        "nombre": "enfo",
+        "maximo": "46",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3167",
+        "nombre": "keymen",
+        "maximo": "35",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3168",
+        "nombre": "filippelli",
+        "maximo": "35",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3169",
+        "nombre": "arno",
+        "maximo": "73",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3171",
+        "nombre": "Argifianza",
+        "maximo": "87",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3171",
+        "nombre": "Argifianza doc compartidos",
+        "maximo": "15",
+        "remito": "5034"
+    },
+    {
+        "cliente": "3175",
+        "nombre": "ismastaff/ ismaplanta",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3176",
+        "nombre": "rbjorge",
+        "maximo": "50",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3177",
+        "nombre": "sadosky",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3178",
+        "nombre": "sgfglobal",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3179",
+        "nombre": "misresto",
+        "maximo": "50",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3180",
+        "nombre": "Bacchi J- ALS Arg. SA",
+        "maximo": "50",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3184",
+        "nombre": "tassaroli",
+        "maximo": "203",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3185",
+        "nombre": "crowder",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3188",
+        "nombre": "afalp",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3190",
+        "nombre": "fhba",
+        "maximo": "70",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3191",
+        "nombre": "smt",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3192",
+        "nombre": "belgaum",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3194",
+        "nombre": "nationalbrokers",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3195",
+        "nombre": "wage",
+        "maximo": "50",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3196",
+        "nombre": "bellmotors",
+        "maximo": "30",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3197",
+        "nombre": "broier",
+        "maximo": "60",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3199",
+        "nombre": "itemfideicomiso",
+        "maximo": "50",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3200",
+        "nombre": "COVA-ITEM-",
+        "maximo": "50",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3203",
+        "nombre": "fulltec",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3204",
+        "nombre": "craft",
+        "maximo": "85",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3205",
+        "nombre": "refrimar",
+        "maximo": "20",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3207",
+        "nombre": "conexia",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3208",
+        "nombre": "bancomeridian",
+        "maximo": "100",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3216",
+        "nombre": " Y BACCHI J. Maxfra SRL",
+        "maximo": "50",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3217",
+        "nombre": "NORMA Y BACCHI J. Centro DyA",
+        "maximo": "50",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3218",
+        "nombre": "hswatersolutions",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3223",
+        "nombre": "agrinter",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3226",
+        "nombre": "aedin",
+        "maximo": "200",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3229",
+        "nombre": "promecor",
+        "maximo": "30",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3237",
+        "nombre": "ketosdelphin",
+        "maximo": "77",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3241",
+        "nombre": "dromex",
+        "maximo": "96",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3243",
+        "nombre": "glo",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3244",
+        "nombre": "motorarg",
+        "maximo": "53",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3245",
+        "nombre": "clarkemodet/ Clarkemodeturuguay",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3246",
+        "nombre": "dfentertainment/dffestival",
+        "maximo": "60",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3248",
+        "nombre": "saceip",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3249",
+        "nombre": "administracioncasella",
+        "maximo": "70",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3250",
+        "nombre": "farmaciavital/ Muñeira / tervis",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3252",
+        "nombre": "espinlabs/ Go Cloud",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3253",
+        "nombre": "personalmaritimo",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3254",
+        "nombre": "(GRUPO PARADIÑEIRO) ZANOTTA LAURA ISABEL",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3255",
+        "nombre": "(GRUPO PARADIÑEIRO) FARMACIA PASEO VILLANUEVA SCS",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3258",
+        "nombre": "(GRUPO PARADIÑEIRO) Marsan Diego Javier",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3259",
+        "nombre": "(GRUPO PARADIÑEIRO) Pieresko Mirtha Noemi",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3260",
+        "nombre": "(GRUPO PARADIÑEIRO) Paradiñeiro Victor Hugo",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3261",
+        "nombre": "(GRUPO PARADIÑEIRO) Farmacia Del Nuevo Paseo de Pilar SCS",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3262",
+        "nombre": "(GRUPO PARADIÑEIRO) Misback Sergio Oscar",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3263",
+        "nombre": "(GRUPO PARADIÑEIRO) MISBACK ALEJANDRO MARIANO",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3264",
+        "nombre": "(GRUPO PARADIÑEIRO) INSERPHARMA SA",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3265",
+        "nombre": "(GRUPO PARADIÑEIRO) FARMACIA ALTOHEY SCS",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3266",
+        "nombre": "(GRUPO PARADIÑEIRO) GP INTEGRAL COMMERCE SA",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3267",
+        "nombre": "(GRUPO PARADIÑEIRO) AGRUPACION DE COLABORACION EMPRESARIA GRUPO GP",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3268",
+        "nombre": "(GRUPO PARADIÑEIRO) FARMACIA DEL MALL SCS",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3269",
+        "nombre": "(GRUPO PARADIÑEIRO) FARMACIA DEL CONCORD SCS",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3270",
+        "nombre": "(GRUPO PARADIÑEIRO) FARMACIA ALTOCANNING SCS",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3271",
+        "nombre": "musher",
+        "maximo": "90",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3274",
+        "nombre": "farmaet/farmapal",
+        "maximo": "75",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3278",
+        "nombre": "prodalsa",
+        "maximo": "87",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3279",
+        "nombre": "sutransporte",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3280",
+        "nombre": "transportedonantonio",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3285",
+        "nombre": "dps",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3286",
+        "nombre": "garajedonantonio",
+        "maximo": "0",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3287",
+        "nombre": "controlarg",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3288",
+        "nombre": "mcassab",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3289",
+        "nombre": "brugsa",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3290",
+        "nombre": "unlimitedworld",
+        "maximo": "31",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3292",
+        "nombre": "tevelam",
+        "maximo": "100",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3293",
+        "nombre": "ecovis",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3295",
+        "nombre": "lamantequeria",
+        "maximo": "55",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3297",
+        "nombre": "Krustafish SA (Superbe)",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3298",
+        "nombre": "Armadora San Jorge SA (SUPERBE)",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3302",
+        "nombre": "anchoitanews",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3303",
+        "nombre": "theicase",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3304",
+        "nombre": "ciudadcultural",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3305",
+        "nombre": "ipei",
+        "maximo": "85",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3307",
+        "nombre": "contactco",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3308",
+        "nombre": "sanpablo",
+        "maximo": "70",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3309",
+        "nombre": "flowtex",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3310",
+        "nombre": "cui",
+        "maximo": "62",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3311",
+        "nombre": "readymind",
+        "maximo": "72",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3312",
+        "nombre": "vaulten",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3313",
+        "nombre": "low",
+        "maximo": "50",
+        "remito": "NO "
+    },
+    {
+        "cliente": "3314",
+        "nombre": "nuevorumbo",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3316",
+        "nombre": "caremi",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3320",
+        "nombre": "msccruceros",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3321",
+        "nombre": "mooving",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3322",
+        "nombre": "siscard",
+        "maximo": "62",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3323",
+        "nombre": "maigda",
+        "maximo": "80",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3327",
+        "nombre": "hswatersolutions doc compartidos",
+        "maximo": "100",
+        "remito": "5034"
+    },
+    {
+        "cliente": "3333",
+        "nombre": "SURSEM lgsemillas doc compartidos",
+        "maximo": "100",
+        "remito": "5034"
+    },
+    {
+        "cliente": "3335",
+        "nombre": "fresh",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3338",
+        "nombre": "asir",
+        "maximo": "42",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3342",
+        "nombre": "graphiczone",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3343",
+        "nombre": "Esetec",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3344",
+        "nombre": "pehuenia",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3345",
+        "nombre": "comercializadora",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3346",
+        "nombre": "lagopuelo",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3347",
+        "nombre": "paraiso",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3348",
+        "nombre": "intermaco",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3349",
+        "nombre": "omnichannel",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3351",
+        "nombre": "clacso",
+        "maximo": "40",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3352",
+        "nombre": "raico",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3353",
+        "nombre": "oce",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3354",
+        "nombre": "vazquezehijos",
+        "maximo": "0",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3355",
+        "nombre": "EPV Servicios SRL (Grupo VeH)",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3356",
+        "nombre": "auxiliosanblas",
+        "maximo": "0",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3357",
+        "nombre": "temis",
+        "maximo": "300",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3359",
+        "nombre": "fertilizar",
+        "maximo": "50",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3361",
+        "nombre": "bettersecurity",
+        "maximo": "100",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3362",
+        "nombre": "tecnolab",
+        "maximo": "68",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3363",
+        "nombre": "fatfa",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3364",
+        "nombre": "broadbandtech",
+        "maximo": "100",
+        "remito": "5027"
+    },
+    {
+        "cliente": "3368",
+        "nombre": "BELGAUM - VALID",
+        "maximo": "100",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3370",
+        "nombre": "argentinaonthego",
+        "maximo": "30",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3372",
+        "nombre": "deutsche",
+        "maximo": "50",
+        "remito": "5029"
+    },
+    {
+        "cliente": "3375",
+        "nombre": "ses",
+        "maximo": "630",
+        "remito": "NO"
+    },
+    {
+        "cliente": "3380",
+        "nombre": "grupomedicomaschwitz",
+        "maximo": "90",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3395",
+        "nombre": "Grupo de Servicios Integrales SA",
+        "maximo": "145",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3396",
+        "nombre": "TOMOGRAFIA S.A.",
+        "maximo": "20",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3397",
+        "nombre": "R M IMAGENES S.A.",
+        "maximo": "20",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3398",
+        "nombre": "NUVO DIGITAL",
+        "maximo": "110",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3400",
+        "nombre": "Coworks SAS",
+        "maximo": "60",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3402",
+        "nombre": "BETTER CATRERING SA ",
+        "maximo": "350",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3403",
+        "nombre": "EQUIPO MEDICO DE EMERGENCIAS CORRIENTES S.A. ",
+        "maximo": "120",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3404",
+        "nombre": "Aware Solutions SRL",
+        "maximo": "10",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3405",
+        "nombre": "Hospital Posadas",
+        "maximo": "5000",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3406",
+        "nombre": "Sindicato empleados de la industria del vidrio (SEIVARA/OSEIV)",
+        "maximo": "50",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3408",
+        "nombre": "CIPREM SRL (Sanatorio Frances)",
+        "maximo": "200",
+        "remito": "5027"
+    }
+    ,
+    {
+        "cliente": "3409",
+        "nombre": "Maritma Meridian",
+        "maximo": "130",
+        "remito": "5027"
+    }
+  
+]
